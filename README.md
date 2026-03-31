@@ -62,21 +62,5 @@ Since GitHub does not render interactive Folium maps, view the full notebook wit
 
 ---
 
-## 🚀 How to Run
-1. Clone the repository:
-```bash
-git clone https://github.com/Leomgama/CustomerClassification.git
-```
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-3. Open the notebook:
-```bash
-jupyter notebook CustomerClassification.ipynb
-```
-
----
-
 ## 👤 Author
 **Leonardo** — [GitHub](https://github.com/Leomgama)
