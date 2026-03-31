@@ -1,0 +1,6 @@
+.env
+/venv_customers
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.pdf

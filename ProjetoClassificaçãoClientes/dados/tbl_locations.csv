@@ -1,0 +1,1959 @@
+﻿id_location,id_country,id_state,ds_city,latitude,longitude,division,regional
+LOTX00474,US,TX,Austin,29.924724,-96.729571,South/Southeast,Southeast
+LOIL00475,US,IL,Springfield,41.139196,-88.940805,Central/Northeast,Great Lakes
+LOIL00476,US,IL,Rockford,40.793611,-89.206403,Central/Northeast,Great Lakes
+LOMO00487,US,MO,Kansas City,38.23485,-91.780294,Central/Northeast,Midwest
+LOMO00488,US,MO,St. Louis,38.560669,-91.875156,Central/Northeast,Midwest
+LOIL00489,US,IL,Joliet,40.712351,-88.718054,Central/Northeast,Great Lakes
+LOMO00500,US,MO,Springfield,38.699466,-92.172597,Central/Northeast,Midwest
+LOMO00501,US,MO,Columbia,38.309095,-92.189957,Central/Northeast,Midwest
+LOTN00503,US,TN,Nashville,35.882545,-85.985146,West,Tennessee Valley
+LOTN00504,US,TN,Memphis,35.959167,-86.125263,West,Tennessee Valley
+LOTN00505,US,TN,Knoxville,36.067112,-86.216304,West,Tennessee Valley
+LOCA00507,US,CA,Sacramento,35.875287,-119.080183,Central/Northeast,Greater LA
+LOCA00508,US,CA,Fresno,35.973642,-118.828894,Central/Northeast,Greater LA
+LOTN00513,US,TN,Chattanooga,35.819804,-85.991459,West,Tennessee Valley
+LONC00517,US,NC,Charlotte,35.555449,-79.27213,West,Carolinas Interior
+LONC00518,US,NC,Raleigh,35.564527,-79.197686,West,Carolinas Interior
+LONC00519,US,NC,Greensboro,35.239031,-78.730669,West,Carolinas Interior
+LONC00520,US,NC,Durham,35.779379,-78.814962,West,Carolinas Interior
+LONC00521,US,NC,Winston-Salem,35.382768,-79.241397,West,Carolinas Interior
+LOCA00522,US,CA,Bakersfield,36.11054,-119.035909,Central/Northeast,Central Valley
+LOCA00523,US,CA,Stockton,35.773223,-119.002894,Central/Northeast,Central Valley
+LOCA00524,US,CA,Modesto,35.720633,-118.754408,Central/Northeast,Central Valley
+LOCA00525,US,CA,Riverside,35.855268,-118.902487,Central/Northeast,Central Valley
+LOCA00526,US,CA,San Bernardino,35.887027,-118.987959,Central/Northeast,Central Valley
+LOCA00527,US,CA,Fontana,36.028026,-119.189087,Central/Northeast,Central Valley
+LOCA00528,US,CA,Moreno Valley,36.281751,-118.83492,Central/Northeast,Bay Area
+LOTN00534,US,TN,Clarksville,36.263699,-85.763104,West,Nashville Metro
+LOTN00535,US,TN,Murfreesboro,36.05874,-85.746875,West,Nashville Metro
+LOTN00536,US,TN,Franklin,35.753096,-86.18241,West,Nashville Metro
+LOTN00537,US,TN,Johnson City,35.727136,-86.104802,West,Nashville Metro
+LOTN00538,US,TN,Bartlett,35.933206,-86.137191,West,Nashville Metro
+LOTN00540,US,TN,Hendersonville,36.197243,-86.085948,West,Nashville Metro
+LOTN00541,US,TN,Kingsport,35.868561,-85.974382,West,Nashville Metro
+LOCA00548,US,CA,Oxnard,35.784555,-118.818682,Central/Northeast,Bay Area
+LOCA00549,US,CA,Pomona,35.74473,-118.707868,Central/Northeast,Bay Area
+LOCA00550,US,CA,Escondido,36.163347,-119.180771,Central/Northeast,Bay Area
+LOCA00551,US,CA,Hayward,35.703313,-118.810723,Central/Northeast,Bay Area
+LOWA00553,US,WA,Spokane,47.624114,-119.862596,West,Eastern WA
+LONC00554,US,NC,Fayetteville,35.662762,-79.255573,West,Carolinas Interior
+LONY00566,US,NY,Buffalo,42.915079,-76.230479,Central/Northeast,New York Metro
+LOTX00570,US,TX,San Antonio,30.217862,-96.926021,South/Southeast,Southeast
+LOCA00575,US,CA,Sunnyvale,35.898539,-119.261865,Central/Northeast,Central Valley
+LOCA00576,US,CA,Pasadena,35.886589,-119.10489,Central/Northeast,Central Valley
+LOCA00577,US,CA,Sacramento,36.137764,-118.917466,Central/Northeast,Central Valley
+LOMO00581,US,MO,Independence,38.732328,-92.016671,Central/Northeast,Midwest
+LONY00593,US,NY,Rochester,42.771757,-75.872053,Central/Northeast,New York Metro
+LOIL00595,US,IL,Naperville,41.156471,-88.963234,Central/Northeast,Chicago Metro
+LOIL00596,US,IL,Peoria,41.16258,-89.003723,Central/Northeast,Chicago Metro
+LOIL00597,US,IL,Elgin,41.01364,-89.043475,Central/Northeast,Chicago Metro
+LOIL00598,US,IL,Waukegan,40.715251,-89.235265,Central/Northeast,Chicago Metro
+LOIL00599,US,IL,Cicero,40.718858,-88.918154,Central/Northeast,Chicago Metro
+LOIL00600,US,IL,Champaign,40.888614,-88.994858,Central/Northeast,Chicago Metro
+LOIL00601,US,IL,Bloomington,41.24454,-89.150425,Central/Northeast,Chicago Metro
+LOIL00620,US,IL,Decatur,40.94623,-88.846669,Central/Northeast,Chicago Metro
+LOIL00621,US,IL,Aurora,40.837279,-89.253812,Central/Northeast,Chicago Metro
+LOIL00622,US,IL,Evanston,40.873851,-89.203267,Central/Northeast,Chicago Metro
+LOIL00623,US,IL,Schaumburg,41.257819,-88.815128,Central/Northeast,Chicago Metro
+LOIL00624,US,IL,Bolingbrook,41.080042,-88.777124,Central/Northeast,Chicago Metro
+LONC00630,US,NC,Cary,35.682203,-79.188058,West,Carolinas Interior
+LOMO00635,US,MO,Lee's Summit,38.735535,-91.976395,Central/Northeast,DC Metro
+LONC00644,US,NC,Wilmington,35.684464,-78.762345,West,Carolinas Interior
+LODC00649,US,DC,Washington,38.790802,-77.233969,Central/Northeast,DC Metro
+LODC00650,US,DC,Arlington,38.736761,-77.043735,Central/Northeast,DC Metro
+LODC00651,US,DC,Alexandria,39.090809,-76.783562,Central/Northeast,DC Metro
+LODC00652,US,DC,Bethesda,38.604171,-76.993552,Central/Northeast,DC Metro
+LODC00653,US,DC,Silver Spring,38.850447,-77.166735,Central/Northeast,DC Metro
+LODC00654,US,DC,Rockville,38.671919,-77.097431,Central/Northeast,DC Metro
+LODC00655,US,DC,Chevy Chase,39.165746,-77.106078,Central/Northeast,DC Metro
+LODC00656,US,DC,Washington,38.911274,-76.878189,Central/Northeast,DC Metro
+LODC00657,US,DC,Arlington,38.818178,-76.716931,Central/Northeast,DC Metro
+LODC00658,US,DC,Alexandria,39.177468,-77.148931,Central/Northeast,DC Metro
+LODC00659,US,DC,Bethesda,38.898349,-77.119473,Central/Northeast,DC Metro
+LODC00660,US,DC,Silver Spring,38.770904,-77.277868,Central/Northeast,DC Metro
+LODC00661,US,DC,Rockville,38.965739,-76.998393,Central/Northeast,DC Metro
+LODC00662,US,DC,Chevy Chase,38.630887,-77.132812,Central/Northeast,DC Metro
+LODC00663,US,DC,Washington,39.14496,-77.156263,Central/Northeast,DC Metro
+LODC00664,US,DC,Arlington,38.686937,-77.006328,Central/Northeast,DC Metro
+LODC00665,US,DC,Alexandria,39.19139,-77.154767,Central/Northeast,DC Metro
+LODC00666,US,DC,Bethesda,39.003281,-76.843028,Central/Northeast,DC Metro
+LOIL00667,US,IL,Springfield,40.842583,-88.86307,Central/Northeast,Chicago Metro
+LONC00668,US,NC,High Point,35.42067,-78.920617,West,Carolinas Interior
+LONC00669,US,NC,Concord,35.580118,-78.978535,West,Carolinas Interior
+LOWA00684,US,WA,Tacoma,47.254174,-119.798819,West,Eastern WA
+LOWA00685,US,WA,Vancouver,47.392468,-120.188089,West,Eastern WA
+LOWA00686,US,WA,Bellevue,47.224465,-119.945464,West,Eastern WA
+LOVA00697,US,VA,Virginia Beach,37.606539,-79.290047,South/Southeast,Virginia Coast
+LOCA00699,US,CA,Fresno,36.007256,-119.164103,Central/Northeast,Greater LA
+LOTX00702,US,TX,Dallas,30.087104,-97.19538,South/Southeast,Southeast
+LOTX00703,US,TX,Fort Worth,30.114563,-97.067959,South/Southeast,Southeast
+LOTN00705,US,TN,Jackson,36.262038,-86.217487,West,Tennessee Valley
+LOTN00706,US,TN,Nashville,35.90464,-86.231916,West,Tennessee Valley
+LOCA00707,US,CA,Bakersfield,36.254816,-118.773596,Central/Northeast,Bay Area
+LOCA00708,US,CA,Stockton,35.854765,-118.90401,Central/Northeast,Bay Area
+LOCA00709,US,CA,Modesto,36.190333,-118.96688,Central/Northeast,Bay Area
+LOCA00710,US,CA,Riverside,36.01779,-119.154889,Central/Northeast,Bay Area
+LOCA00711,US,CA,San Bernardino,35.755862,-118.761671,Central/Northeast,Bay Area
+LOCA00712,US,CA,Fontana,36.240251,-118.920139,Central/Northeast,Bay Area
+LOCA00713,US,CA,Moreno Valley,35.903418,-119.090474,Central/Northeast,Bay Area
+LOCA00714,US,CA,Oxnard,36.135573,-118.761734,Central/Northeast,Bay Area
+LOCA00715,US,CA,Pomona,36.232252,-118.832075,Central/Northeast,Bay Area
+LOCA00716,US,CA,Escondido,36.085219,-119.249516,Central/Northeast,Bay Area
+LOCA00717,US,CA,Hayward,35.796977,-118.760867,Central/Northeast,Bay Area
+LOCA00718,US,CA,Sunnyvale,36.063857,-119.294482,Central/Northeast,Bay Area
+LOCA00719,US,CA,Pasadena,35.760883,-118.901899,Central/Northeast,Bay Area
+LOCA00720,US,CA,Sacramento,35.703037,-119.203515,Central/Northeast,Bay Area
+LOCA00721,US,CA,Fresno,36.02924,-118.884863,Central/Northeast,Bay Area
+LOCA00722,US,CA,Bakersfield,36.091177,-119.165438,Central/Northeast,Bay Area
+LOCA00723,US,CA,Stockton,36.127308,-119.157651,Central/Northeast,Bay Area
+LOIL00724,US,IL,Rockford,40.89524,-88.852105,Central/Northeast,Great Lakes
+LOIL00725,US,IL,Joliet,41.08978,-88.790466,Central/Northeast,Great Lakes
+LOTN00730,US,TN,Memphis,36.094568,-85.959015,West,Nashville Metro
+LOTN00733,US,TN,Knoxville,35.756205,-86.079371,West,Nashville Metro
+LOTN00734,US,TN,Chattanooga,35.859121,-86.153606,West,Nashville Metro
+LOTN00735,US,TN,Clarksville,36.283806,-86.064141,West,Tennessee Valley
+LOIL00738,US,IL,Naperville,41.235228,-88.921317,Central/Northeast,Great Lakes
+LONC00739,US,NC,Gastonia,35.676887,-78.998418,West,Carolinas Interior
+LOWA00741,US,WA,Kennewick,47.546142,-120.004489,West,Eastern WA
+LOCA00763,US,CA,Modesto,35.817146,-118.866529,Central/Northeast,Bay Area
+LOTN00767,US,TN,Murfreesboro,35.868463,-86.28541,West,Tennessee Valley
+LOTN00768,US,TN,Franklin,36.087283,-86.193734,West,Tennessee Valley
+LOTX00788,US,TX,Plano,30.264275,-96.727643,South/Southeast,Southeast
+LOTX00789,US,TX,Arlington,30.248919,-97.077905,South/Southeast,Southeast
+LOTN00889,US,TN,Johnson City,35.709274,-85.743009,West,Nashville Metro
+LOTN00891,US,TN,Bartlett,35.95691,-85.720007,West,Tennessee Valley
+LOIL00894,US,IL,Peoria,41.278172,-88.788194,Central/Northeast,Chicago Metro
+LOIL00898,US,IL,Elgin,40.876669,-89.068941,Central/Northeast,Chicago Metro
+LOIL00900,US,IL,Waukegan,41.210682,-89.109847,Central/Northeast,Chicago Metro
+LOIL00901,US,IL,Cicero,40.801696,-88.965919,Central/Northeast,Chicago Metro
+LOIL00902,US,IL,Champaign,41.261693,-88.882382,Central/Northeast,Chicago Metro
+LOIL00903,US,IL,Bloomington,41.042037,-89.241694,Central/Northeast,Chicago Metro
+LOIL00904,US,IL,Decatur,41.069004,-88.705968,Central/Northeast,Chicago Metro
+LOIL00905,US,IL,Aurora,40.78405,-88.989002,Central/Northeast,Chicago Metro
+LOIL00906,US,IL,Evanston,41.226424,-88.855539,Central/Northeast,Chicago Metro
+LOCA00908,US,CA,Riverside,36.118209,-118.87851,Central/Northeast,Bay Area
+LONC00910,US,NC,Asheville,35.415695,-79.123845,West,Carolinas Interior
+LOCA00911,US,CA,San Bernardino,36.185617,-118.813932,Central/Northeast,Greater LA
+LOCA00914,US,CA,Fontana,36.220243,-118.752056,Central/Northeast,Central Valley
+LOCA00915,US,CA,Moreno Valley,36.006805,-118.99909,Central/Northeast,Central Valley
+LOCA00916,US,CA,Oxnard,36.178977,-118.910022,Central/Northeast,Central Valley
+LOCA00917,US,CA,Pomona,36.12118,-118.822524,Central/Northeast,Central Valley
+LOCA00918,US,CA,Escondido,36.234003,-119.097203,Central/Northeast,Central Valley
+LOCA00919,US,CA,Hayward,35.92535,-119.243611,Central/Northeast,Central Valley
+LONC00920,US,NC,Greenville,35.546968,-79.278435,West,Carolinas Interior
+LONC00921,US,NC,Charlotte,35.479359,-78.974413,West,Carolinas Interior
+LONC00922,US,NC,Raleigh,35.371925,-78.9455,West,Carolinas Interior
+LONC00923,US,NC,Greensboro,35.2183,-79.277591,West,Carolinas Interior
+LONC00924,US,NC,Durham,35.69356,-79.083886,West,Carolinas Interior
+LONC00925,US,NC,Winston-Salem,35.276236,-78.986654,West,Carolinas Interior
+LOTN00935,US,TN,Hendersonville,36.161996,-86.170507,West,Nashville Metro
+LOTN00936,US,TN,Kingsport,36.073734,-86.248792,West,Nashville Metro
+LOTN00937,US,TN,Jackson,35.731009,-85.981187,West,Nashville Metro
+LOTN00938,US,TN,Nashville,36.024381,-85.917542,West,Nashville Metro
+LOTN00939,US,TN,Memphis,36.135655,-85.714489,West,Nashville Metro
+LOTN00940,US,TN,Knoxville,36.00978,-86.106226,West,Nashville Metro
+LOTN00941,US,TN,Chattanooga,36.177112,-86.137501,West,Nashville Metro
+LOTN00942,US,TN,Clarksville,35.963383,-86.252926,West,Nashville Metro
+LOTN00943,US,TN,Murfreesboro,35.71521,-85.722411,West,Nashville Metro
+LOTN00944,US,TN,Franklin,36.201588,-85.882415,West,Nashville Metro
+LOTN00945,US,TN,Johnson City,35.945372,-86.196023,West,Nashville Metro
+LOTN00946,US,TN,Bartlett,35.793862,-86.149854,West,Nashville Metro
+LOTN00947,US,TN,Hendersonville,36.029536,-85.871242,West,Nashville Metro
+LOTN00948,US,TN,Kingsport,36.096118,-86.13204,West,Nashville Metro
+LOTN00949,US,TN,Jackson,36.272919,-85.857262,West,Nashville Metro
+LOTN00950,US,TN,Nashville,36.032612,-85.932968,West,Nashville Metro
+LOTN00951,US,TN,Memphis,35.95176,-86.151361,West,Nashville Metro
+LOTN00952,US,TN,Knoxville,35.913584,-85.845292,West,Nashville Metro
+LOTN00953,US,TN,Chattanooga,35.708636,-86.230356,West,Nashville Metro
+LOTN00954,US,TN,Clarksville,35.727602,-86.275563,West,Nashville Metro
+LOTN00955,US,TN,Murfreesboro,36.213276,-85.877805,West,Nashville Metro
+LOTN00956,US,TN,Franklin,35.984504,-86.2413,West,Nashville Metro
+LOTN00957,US,TN,Johnson City,35.99497,-86.015917,West,Nashville Metro
+LOTN00958,US,TN,Bartlett,35.803921,-86.039689,West,Nashville Metro
+LOTN00959,US,TN,Hendersonville,35.939103,-85.93049,West,Nashville Metro
+LOTN00960,US,TN,Kingsport,36.081056,-86.272818,West,Nashville Metro
+LOTN00961,US,TN,Jackson,35.924768,-85.924484,West,Nashville Metro
+LOCA00963,US,CA,Sunnyvale,36.001882,-118.786106,Central/Northeast,Central Valley
+LOCA00966,US,CA,Pasadena,36.095216,-119.202239,Central/Northeast,Greater LA
+LOCA00967,US,CA,Sacramento,35.742341,-118.914548,Central/Northeast,Greater LA
+LOCA00968,US,CA,Fresno,35.715907,-118.948535,Central/Northeast,Greater LA
+LOCA00969,US,CA,Bakersfield,36.264138,-118.954715,Central/Northeast,Greater LA
+LOCA00970,US,CA,Stockton,35.932902,-118.914027,Central/Northeast,Greater LA
+LOCA00971,US,CA,Modesto,35.974952,-118.97263,Central/Northeast,Greater LA
+LOCA00972,US,CA,Riverside,36.264879,-119.068338,Central/Northeast,Greater LA
+LOCA00973,US,CA,San Bernardino,36.276714,-118.75679,Central/Northeast,Greater LA
+LOIL00974,US,IL,Schaumburg,40.817475,-89.258383,South/Southeast,Midwest Interior
+LOIL00975,US,IL,Bolingbrook,40.760467,-89.289067,South/Southeast,Midwest Interior
+LOTX00976,US,TX,Lubbock,29.756666,-96.890196,South/Southeast,Texas Gulf
+LOCA00977,US,CA,Fontana,35.742713,-119.108615,Central/Northeast,Greater LA
+LOVA00982,US,VA,Norfolk,37.706925,-79.286037,South/Southeast,Virginia Coast
+LONY00987,US,NY,Yonkers,43.188681,-76.130887,Central/Northeast,New York Metro
+LONY00988,US,NY,Syracuse,42.770899,-75.881958,Central/Northeast,New York Metro
+LOCA00990,US,CA,Moreno Valley,36.077366,-118.773517,Central/Northeast,Greater LA
+LOIL01005,US,IL,Springfield,41.141043,-88.817911,Central/Northeast,Great Lakes
+LOIL01006,US,IL,Rockford,40.869221,-89.193536,Central/Northeast,Great Lakes
+LOIL01007,US,IL,Joliet,41.150369,-88.815899,Central/Northeast,Missouri Valley
+LOIL01008,US,IL,Naperville,41.294303,-89.052429,Central/Northeast,Missouri Valley
+LOWA01019,US,WA,Renton,47.423211,-119.834152,West,Eastern WA
+LOTX01020,US,TX,Laredo,29.904482,-96.741546,South/Southeast,Southeast
+LOTX01021,US,TX,Irving,30.215048,-97.042604,South/Southeast,Southeast
+LOCA01024,US,CA,Oxnard,36.150523,-118.847274,Central/Northeast,Greater LA
+LONC01034,US,NC,Fayetteville,35.261874,-78.758468,West,Carolinas Interior
+LONC01035,US,NC,Cary,35.503151,-78.804126,West,Carolinas Interior
+LONC01036,US,NC,Wilmington,35.39203,-78.762686,West,Carolinas Interior
+LONC01037,US,NC,High Point,35.433521,-79.293497,West,Carolinas Interior
+LOCA01042,US,CA,Pomona,36.243229,-119.245228,Central/Northeast,Central Valley
+LOCA01043,US,CA,Escondido,35.891588,-118.729963,Central/Northeast,Central Valley
+LOIL01047,US,IL,Peoria,41.270364,-88.955937,Central/Northeast,Kansas City
+LOMO01069,US,MO,O'Fallon,38.579102,-92.030933,Central/Northeast,Midwest
+LOMO01070,US,MO,St. Joseph,38.375926,-92.102801,Central/Northeast,Midwest
+LOMO01071,US,MO,St. Charles,38.603511,-91.848575,Central/Northeast,Midwest
+LOMO01072,US,MO,Blue Springs,38.674947,-91.826229,Central/Northeast,Midwest
+LOMO01073,US,MO,Joplin,38.254724,-92.003348,Central/Northeast,Midwest
+LOMO01074,US,MO,Florissant,38.234535,-91.970283,Central/Northeast,Midwest
+LOMO01075,US,MO,Kansas City,38.464918,-91.767377,Central/Northeast,Midwest
+LOMO01076,US,MO,St. Louis,38.410549,-92.22976,Central/Northeast,Midwest
+LOMO01077,US,MO,Springfield,38.285795,-91.843094,Central/Northeast,Midwest
+LOMO01078,US,MO,Columbia,38.570931,-92.239326,Central/Northeast,Midwest
+LOMO01079,US,MO,Independence,38.250464,-91.879419,Central/Northeast,Midwest
+LOMO01080,US,MO,Lee's Summit,38.243658,-91.806884,Central/Northeast,Midwest
+LOMO01081,US,MO,O'Fallon,38.623745,-92.251191,Central/Northeast,Midwest
+LOMO01082,US,MO,St. Joseph,38.250903,-91.708016,Central/Northeast,DC Metro
+LOIL01084,US,IL,Elgin,40.924562,-89.077615,South/Southeast,Chicago Metro
+LOCA01091,US,CA,Hayward,36.18768,-118.731651,Central/Northeast,Central Valley
+LOCA01094,US,CA,Sunnyvale,36.291601,-118.847973,Central/Northeast,Central Valley
+LOCA01095,US,CA,Pasadena,35.925756,-119.2499,Central/Northeast,Central Valley
+LOCA01096,US,CA,Sacramento,36.166288,-118.964957,Central/Northeast,Central Valley
+LOTN01098,US,TN,Nashville,35.954533,-85.756187,West,Nashville Metro
+LOCA01103,US,CA,Fresno,35.766718,-119.004425,Central/Northeast,Central Valley
+LOCA01112,US,CA,Bakersfield,35.706812,-119.018804,Central/Northeast,Greater LA
+LOCA01113,US,CA,Stockton,35.733782,-119.228709,Central/Northeast,Greater LA
+LOCA01114,US,CA,Modesto,35.770516,-118.910474,Central/Northeast,Greater LA
+LOCA01115,US,CA,Riverside,36.147627,-118.949979,Central/Northeast,Greater LA
+LOCA01116,US,CA,San Bernardino,36.277304,-119.075078,Central/Northeast,Greater LA
+LOCA01117,US,CA,Fontana,35.871427,-118.778841,Central/Northeast,Greater LA
+LOCA01118,US,CA,Moreno Valley,35.834158,-118.722066,Central/Northeast,Greater LA
+LOCA01121,US,CA,Oxnard,35.707293,-118.718073,Central/Northeast,Greater LA
+LOCA01130,US,CA,Pomona,35.725896,-118.765314,Central/Northeast,Bay Area
+LONC01132,US,NC,Concord,35.516621,-78.704221,West,Carolinas Interior
+LONC01133,US,NC,Gastonia,35.244278,-78.967687,West,Carolinas Interior
+LONC01134,US,NC,Asheville,35.781582,-78.986141,West,Carolinas Interior
+LOCA01151,US,CA,Escondido,36.077639,-118.882551,Central/Northeast,Sacramento Valley
+LOCA01152,US,CA,Hayward,35.972725,-118.923465,Central/Northeast,Sacramento Valley
+LOCA01153,US,CA,Sunnyvale,36.050589,-118.759305,Central/Northeast,Sacramento Valley
+LOCA01154,US,CA,Pasadena,35.727268,-119.131422,Central/Northeast,Sacramento Valley
+LOCA01155,US,CA,Sacramento,36.270247,-118.765842,Central/Northeast,Sacramento Valley
+LOCA01156,US,CA,Fresno,35.973394,-118.92792,Central/Northeast,Sacramento Valley
+LOCA01157,US,CA,Bakersfield,35.866429,-119.187127,Central/Northeast,Sacramento Valley
+LOCA01158,US,CA,Stockton,35.978219,-119.087989,Central/Northeast,Sacramento Valley
+LOIL01166,US,IL,Waukegan,41.050194,-89.253359,Central/Northeast,Chicago Metro
+LOIL01167,US,IL,Cicero,41.284637,-88.708274,Central/Northeast,Chicago Metro
+LONC01170,US,NC,Greenville,35.618897,-78.978342,West,Carolinas Interior
+LONC01171,US,NC,Charlotte,35.385717,-78.811723,West,Carolinas Interior
+LOCA01173,US,CA,Modesto,36.110839,-119.20243,Central/Northeast,Greater LA
+LOCA01175,US,CA,Riverside,36.246556,-118.806478,Central/Northeast,Sacramento Valley
+LOCA01176,US,CA,San Bernardino,36.26988,-118.864568,Central/Northeast,Sacramento Valley
+LOCA01183,US,CA,Fontana,36.068049,-119.049054,Central/Northeast,Bay Area
+LOCA01184,US,CA,Moreno Valley,36.259637,-118.780362,Central/Northeast,Bay Area
+LOCA01185,US,CA,Oxnard,35.727131,-119.28418,Central/Northeast,Bay Area
+LOCA01186,US,CA,Pomona,35.925878,-118.813668,Central/Northeast,Bay Area
+LOCA01188,US,CA,Escondido,36.292366,-119.20975,Central/Northeast,Greater LA
+LONY01192,US,NY,Albany,43.056478,-76.071465,Central/Northeast,Upstate NY
+LONY01193,US,NY,New Rochelle,43.281949,-75.794729,Central/Northeast,Upstate NY
+LONY01194,US,NY,White Plains,43.202997,-76.018784,Central/Northeast,New York Metro
+LONY01195,US,NY,Troy,42.948892,-76.135956,Central/Northeast,Upstate NY
+LOCA01196,US,CA,Hayward,35.733825,-118.781167,Central/Northeast,Bay Area
+LOCA01198,US,CA,Sunnyvale,36.187741,-118.700169,Central/Northeast,Bay Area
+LOCA01199,US,CA,Pasadena,36.297982,-118.966741,Central/Northeast,Bay Area
+LOCA01200,US,CA,Sacramento,36.161392,-118.733141,Central/Northeast,Bay Area
+LOCA01201,US,CA,Fresno,36.209788,-119.151591,Central/Northeast,Bay Area
+LOIL01202,US,IL,Champaign,40.970326,-89.222504,Central/Northeast,Chicago Metro
+LOIL01203,US,IL,Bloomington,41.272431,-88.936295,Central/Northeast,Chicago Metro
+LOIL01204,US,IL,Decatur,40.837186,-88.89698,Central/Northeast,Chicago Metro
+LOIL01205,US,IL,Aurora,41.070877,-89.085102,Central/Northeast,Chicago Metro
+LOCA01206,US,CA,Bakersfield,35.768135,-118.897056,Central/Northeast,Bay Area
+LOCA01207,US,CA,Stockton,36.012185,-118.836609,Central/Northeast,Bay Area
+LOCA01208,US,CA,Modesto,36.012098,-118.788691,Central/Northeast,Bay Area
+LOCA01209,US,CA,Riverside,36.031144,-118.963437,Central/Northeast,Sacramento Valley
+LOCA01210,US,CA,San Bernardino,36.225992,-119.05791,Central/Northeast,Sacramento Valley
+LOCA01211,US,CA,Fontana,35.780409,-119.28273,Central/Northeast,Sacramento Valley
+LOCA01212,US,CA,Moreno Valley,36.153082,-118.927814,Central/Northeast,Sacramento Valley
+LOCA01213,US,CA,Oxnard,36.122448,-119.172222,Central/Northeast,Sacramento Valley
+LOCA01214,US,CA,Pomona,35.781823,-119.291273,Central/Northeast,Sacramento Valley
+LOMO01215,US,MO,St. Charles,38.410353,-91.946049,Central/Northeast,Midwest
+LOCA01220,US,CA,Escondido,35.935346,-119.037515,Central/Northeast,Central Valley
+LOTN01221,US,TN,Memphis,36.242495,-86.091047,West,Tennessee Valley
+LOTN01222,US,TN,Knoxville,36.008394,-85.829808,West,Tennessee Valley
+LOCA01226,US,CA,Hayward,35.937926,-118.926748,Central/Northeast,Central Valley
+LOCA01227,US,CA,Sunnyvale,36.217418,-118.730288,Central/Northeast,Central Valley
+LOCA01228,US,CA,Pasadena,35.788244,-118.744047,Central/Northeast,Central Valley
+LOCA01229,US,CA,Sacramento,35.99527,-119.145053,Central/Northeast,Central Valley
+LOCA01230,US,CA,Fresno,35.975481,-118.71198,Central/Northeast,Central Valley
+LOTX01233,US,TX,Garland,29.995571,-97.102749,South/Southeast,Southeast
+LOCA01234,US,CA,Bakersfield,36.080041,-119.155913,Central/Northeast,Bay Area
+LOCA01235,US,CA,Stockton,35.745518,-119.222672,Central/Northeast,Bay Area
+LOCA01236,US,CA,Modesto,35.776828,-119.208858,Central/Northeast,Bay Area
+LOCA01237,US,CA,Riverside,35.783296,-118.915475,Central/Northeast,Central Valley
+LOMO01241,US,MO,Blue Springs,38.309128,-92.0926,Central/Northeast,Midwest
+LOIL01245,US,IL,Evanston,41.238073,-89.015623,Central/Northeast,Midwest Interior
+LONC01247,US,NC,Raleigh,35.600535,-79.196608,West,Carolinas Interior
+LONC01248,US,NC,Greensboro,35.315373,-79.275479,West,Carolinas Interior
+LONC01249,US,NC,Durham,35.301361,-79.132846,West,Carolinas Interior
+LONC01250,US,NC,Winston-Salem,35.306206,-79.246778,West,Carolinas Interior
+LONC01251,US,NC,Fayetteville,35.272382,-79.023533,West,Carolinas Interior
+LONC01252,US,NC,Cary,35.3238,-79.081438,West,Carolinas Interior
+LONC01253,US,NC,Wilmington,35.50205,-78.885763,West,Carolinas Interior
+LONC01254,US,NC,High Point,35.223587,-78.820354,West,Carolinas Interior
+LONC01255,US,NC,Concord,35.57674,-79.250945,West,Carolinas Interior
+LONC01256,US,NC,Gastonia,35.724147,-78.747477,West,Carolinas Interior
+LONC01257,US,NC,Asheville,35.236647,-79.133873,West,Carolinas Interior
+LONC01258,US,NC,Greenville,35.683721,-78.851044,West,Carolinas Interior
+LONC01259,US,NC,Charlotte,35.310713,-79.17439,West,Carolinas Interior
+LONC01260,US,NC,Raleigh,35.422283,-79.009286,West,Carolinas Interior
+LONC01261,US,NC,Greensboro,35.570953,-79.078652,West,Carolinas Interior
+LONC01262,US,NC,Durham,35.477521,-78.851517,West,Carolinas Interior
+LONC01263,US,NC,Winston-Salem,35.22201,-79.148538,West,Carolinas Interior
+LONC01264,US,NC,Fayetteville,35.62801,-78.762876,West,Carolinas Interior
+LONC01265,US,NC,Cary,35.507006,-78.980732,West,Carolinas Interior
+LONC01266,US,NC,Wilmington,35.264303,-79.031553,West,Carolinas Interior
+LONC01267,US,NC,High Point,35.51957,-79.154518,West,Carolinas Interior
+LONC01268,US,NC,Concord,35.361546,-79.07363,West,Carolinas Interior
+LONC01269,US,NC,Gastonia,35.212043,-79.106753,West,Carolinas Interior
+LONC01270,US,NC,Asheville,35.326869,-79.103502,West,Carolinas Interior
+LONC01272,US,NC,Greenville,35.271857,-78.765684,West,Carolinas Interior
+LONC01273,US,NC,Charlotte,35.556155,-78.892539,West,Carolinas Interior
+LOIL01274,US,IL,Schaumburg,41.173503,-89.000935,Central/Northeast,Chicago Metro
+LOCA01284,US,CA,San Bernardino,35.752152,-118.977736,Central/Northeast,Bay Area
+LOTX01307,US,TX,Amarillo,30.052105,-96.852736,South/Southeast,Texas Gulf
+LOTX01308,US,TX,McKinney,29.958996,-97.223452,South/Southeast,Southeast
+LOTX01309,US,TX,Frisco,29.870266,-97.082151,South/Southeast,Southeast
+LONC01310,US,NC,Raleigh,35.58755,-78.957533,West,Carolinas Interior
+LOCA01314,US,CA,Fontana,35.913658,-118.708091,Central/Northeast,Bay Area
+LOCA01315,US,CA,Moreno Valley,36.063465,-119.157664,Central/Northeast,Bay Area
+LOCA01316,US,CA,Oxnard,35.761069,-119.208285,Central/Northeast,Bay Area
+LOCA01317,US,CA,Pomona,35.847575,-119.203591,Central/Northeast,Bay Area
+LOCA01318,US,CA,Escondido,35.81194,-119.128943,Central/Northeast,Bay Area
+LOCA01319,US,CA,Hayward,35.804024,-118.761941,Central/Northeast,Bay Area
+LOCA01320,US,CA,Sunnyvale,35.74814,-118.985293,Central/Northeast,Bay Area
+LOCA01322,US,CA,Pasadena,35.946238,-118.710573,Central/Northeast,Bay Area
+LOCA01323,US,CA,Sacramento,35.767223,-119.061287,Central/Northeast,Bay Area
+LOCA01324,US,CA,Fresno,36.281682,-118.780696,Central/Northeast,Bay Area
+LOCA01325,US,CA,Bakersfield,36.190243,-119.145258,Central/Northeast,Bay Area
+LOCA01326,US,CA,Stockton,35.802533,-118.898814,Central/Northeast,Bay Area
+LOCA01327,US,CA,Modesto,36.257626,-118.965942,Central/Northeast,Bay Area
+LOCA01328,US,CA,Riverside,36.042968,-119.132013,Central/Northeast,Bay Area
+LOCA01329,US,CA,San Bernardino,36.161696,-119.187774,Central/Northeast,Bay Area
+LOCA01330,US,CA,Fontana,35.894208,-119.044738,Central/Northeast,Bay Area
+LOCA01331,US,CA,Moreno Valley,36.004566,-119.154554,Central/Northeast,Bay Area
+LOCA01332,US,CA,Oxnard,35.768902,-118.933628,Central/Northeast,Bay Area
+LOCA01333,US,CA,Pomona,35.873178,-118.951257,Central/Northeast,Bay Area
+LOCA01335,US,CA,Escondido,35.792618,-119.011316,Central/Northeast,Bay Area
+LOCA01336,US,CA,Hayward,36.019554,-119.268906,Central/Northeast,Bay Area
+LOCA01337,US,CA,Sunnyvale,35.901963,-119.219351,Central/Northeast,Bay Area
+LOCA01338,US,CA,Pasadena,35.738025,-118.706024,Central/Northeast,Bay Area
+LOCA01339,US,CA,Sacramento,35.893412,-118.814075,Central/Northeast,Bay Area
+LOCA01340,US,CA,Fresno,35.852784,-118.891098,Central/Northeast,Bay Area
+LOCA01341,US,CA,Bakersfield,36.156137,-118.942617,Central/Northeast,Bay Area
+LOVA01342,US,VA,Chesapeake,37.482946,-79.052895,South/Southeast,Virginia Coast
+LOVA01343,US,VA,Richmond,37.409321,-78.742283,South/Southeast,Virginia Coast
+LOTN01346,US,TN,Chattanooga,36.198372,-85.720984,West,Tennessee Valley
+LOTN01347,US,TN,Clarksville,35.774578,-85.86148,West,Tennessee Valley
+LOTN01348,US,TN,Murfreesboro,36.263004,-86.19126,West,Tennessee Valley
+LOTN01349,US,TN,Franklin,35.739898,-85.855328,West,Tennessee Valley
+LOTN01350,US,TN,Johnson City,36.044684,-85.794903,West,Tennessee Valley
+LOTN01351,US,TN,Bartlett,35.783863,-85.82284,West,Tennessee Valley
+LOTN01352,US,TN,Hendersonville,35.820976,-86.201806,West,Tennessee Valley
+LOTN01353,US,TN,Kingsport,35.798559,-85.811255,West,Tennessee Valley
+LOTN01354,US,TN,Jackson,36.099118,-85.986161,West,Tennessee Valley
+LOMO01361,US,MO,Joplin,38.415298,-91.77368,Central/Northeast,Midwest
+LOMO01362,US,MO,Florissant,38.435467,-91.81004,Central/Northeast,Midwest
+LONY01368,US,NY,Utica,42.963481,-76.073833,Central/Northeast,Long Island
+LOIL01370,US,IL,Bolingbrook,40.977608,-89.119173,Central/Northeast,Missouri Valley
+LOCA01372,US,CA,Stockton,36.148566,-118.998368,Central/Northeast,Greater LA
+LOTN01383,US,TN,Nashville,35.839328,-85.760255,West,Tennessee Valley
+LOTN01384,US,TN,Memphis,35.930335,-85.973868,West,Tennessee Valley
+LOIL01385,US,IL,Springfield,41.243883,-88.925457,Central/Northeast,Chicago Metro
+LOTN01392,US,TN,Knoxville,35.770139,-85.736101,West,Tennessee Valley
+LOTN01396,US,TN,Chattanooga,36.076625,-86.099057,West,Tennessee Valley
+LOTN01397,US,TN,Clarksville,35.783563,-85.823585,West,Tennessee Valley
+LOTN01398,US,TN,Murfreesboro,36.072044,-85.979923,West,Tennessee Valley
+LOTN01399,US,TN,Franklin,36.236336,-85.826842,West,Tennessee Valley
+LOTN01400,US,TN,Johnson City,35.791005,-86.112967,West,Tennessee Valley
+LOTN01401,US,TN,Bartlett,35.849093,-85.853632,West,Tennessee Valley
+LOTN01402,US,TN,Hendersonville,35.720119,-85.958066,West,Tennessee Valley
+LOTN01403,US,TN,Kingsport,36.157475,-85.773941,West,Tennessee Valley
+LOTN01404,US,TN,Jackson,35.905249,-85.807246,West,Tennessee Valley
+LOTN01405,US,TN,Nashville,35.766379,-85.792129,West,Tennessee Valley
+LOTN01406,US,TN,Memphis,35.776493,-86.061628,West,Tennessee Valley
+LOTN01407,US,TN,Knoxville,36.178377,-86.21005,West,Tennessee Valley
+LOTN01408,US,TN,Chattanooga,35.837551,-85.866648,West,Tennessee Valley
+LOTN01409,US,TN,Clarksville,36.132022,-85.915311,West,Tennessee Valley
+LOTX01411,US,TX,Beaumont,30.116369,-96.974365,South/Southeast,Texas Gulf
+LOCA01412,US,CA,Modesto,35.851079,-119.092582,Central/Northeast,Central Valley
+LOCA01415,US,CA,Riverside,35.808959,-118.75493,Central/Northeast,Greater LA
+LONY01417,US,NY,Schenectady,43.050035,-76.059489,Central/Northeast,New York Metro
+LONY01418,US,NY,Mount Vernon,42.977203,-75.73163,Central/Northeast,Upstate NY
+LOCA01435,US,CA,San Bernardino,35.792011,-118.948262,Central/Northeast,Central Valley
+LOCA01436,US,CA,Fontana,36.003533,-118.933127,Central/Northeast,Bay Area
+LOCA01437,US,CA,Moreno Valley,35.710866,-118.776726,Central/Northeast,Bay Area
+LOCA01438,US,CA,Oxnard,36.259271,-118.96092,Central/Northeast,Bay Area
+LOWA01439,US,WA,Kirkland,47.61799,-119.7465,West,Pacific Northwest
+LOIL01440,US,IL,Rockford,41.124343,-89.208477,South/Southeast,Chicago Metro
+LONC01458,US,NC,Greensboro,35.545773,-78.935971,West,Carolinas Interior
+LONY01477,US,NY,Binghamton,42.954478,-75.858133,Central/Northeast,Upstate NY
+LONY01478,US,NY,Niagara Falls,43.26062,-75.744659,Central/Northeast,Upstate NY
+LONY01479,US,NY,Buffalo,42.970504,-76.232057,Central/Northeast,Upstate NY
+LONY01480,US,NY,Rochester,43.290905,-75.796661,Central/Northeast,New York Metro
+LONY01481,US,NY,Yonkers,42.774798,-75.747495,Central/Northeast,New York Metro
+LOIL01487,US,IL,Joliet,41.221938,-88.988697,Central/Northeast,Chicago Metro
+LOIL01488,US,IL,Naperville,41.054765,-89.060598,Central/Northeast,Chicago Metro
+LOIL01489,US,IL,Peoria,40.732857,-89.098882,Central/Northeast,Chicago Metro
+LOIL01490,US,IL,Elgin,41.181712,-89.297221,Central/Northeast,Chicago Metro
+LOIL01491,US,IL,Waukegan,40.9001,-89.061099,Central/Northeast,Chicago Metro
+LOIL01492,US,IL,Cicero,41.022437,-88.748087,Central/Northeast,Chicago Metro
+LOCA01493,US,CA,Pomona,35.907808,-119.091828,Central/Northeast,Bay Area
+LOCA01494,US,CA,Escondido,36.142501,-119.028669,Central/Northeast,Bay Area
+LOIL01498,US,IL,Champaign,40.834763,-89.028536,Central/Northeast,Chicago Metro
+LONC01499,US,NC,Durham,35.284514,-79.194168,West,Carolinas Interior
+LONC01500,US,NC,Winston-Salem,35.499021,-79.048645,West,Carolinas Interior
+LOWA01501,US,WA,Bellevue,47.748908,-120.082564,West,Pacific Northwest
+LOWA01503,US,WA,Everett,47.548353,-119.920641,West,Pacific Northwest
+LOWA01504,US,WA,Yakima,47.207857,-119.901878,West,Pacific Northwest
+LOWA01505,US,WA,Bellingham,47.306822,-119.723358,West,Pacific Northwest
+LOWA01506,US,WA,Marysville,47.289198,-120.051226,West,Pacific Northwest
+LOWA01507,US,WA,Redmond,47.25121,-119.701875,West,Pacific Northwest
+LOWA01508,US,WA,Lakewood,47.501317,-119.942769,West,Pacific Northwest
+LOWA01509,US,WA,Spokane,47.240246,-119.850024,West,Pacific Northwest
+LOWA01510,US,WA,Tacoma,47.325943,-119.761167,West,Pacific Northwest
+LOWA01511,US,WA,Vancouver,47.323084,-120.185587,West,Pacific Northwest
+LOWA01512,US,WA,Bellevue,47.22193,-120.01676,West,Pacific Northwest
+LOCA01518,US,CA,Hayward,36.038905,-119.260575,Central/Northeast,Central Valley
+LOCA01519,US,CA,Sunnyvale,36.165317,-119.028027,Central/Northeast,Central Valley
+LOCA01522,US,CA,Pasadena,36.014634,-119.035542,Central/Northeast,Central Valley
+LOTN01526,US,TN,Murfreesboro,35.940458,-85.964216,West,Nashville Metro
+LOTN01527,US,TN,Franklin,35.793144,-86.190843,West,Nashville Metro
+LOCA01528,US,CA,Sacramento,36.217071,-118.732331,Central/Northeast,Greater LA
+LOCA01530,US,CA,Fresno,35.923986,-119.137553,Central/Northeast,Greater LA
+LOWA01531,US,WA,Kennewick,47.5864,-120.054759,West,Pacific Northwest
+LOIL01536,US,IL,Bloomington,40.715232,-89.206308,Central/Northeast,Missouri Valley
+LOIL01537,US,IL,Decatur,41.129583,-88.904646,Central/Northeast,Missouri Valley
+LOIL01538,US,IL,Aurora,40.716258,-89.166817,Central/Northeast,Chicago Metro
+LOIL01539,US,IL,Evanston,40.838645,-88.896864,Central/Northeast,Midwest Interior
+LOIL01540,US,IL,Schaumburg,40.711826,-89.237535,Central/Northeast,Midwest Interior
+LOIL01552,US,IL,Bolingbrook,41.17995,-89.192873,Central/Northeast,Midwest Interior
+LONY01553,US,NY,Syracuse,43.091648,-76.15709,Central/Northeast,New York Metro
+LONY01556,US,NY,Albany,42.759665,-76.154097,Central/Northeast,Upstate NY
+LOTN01558,US,TN,Johnson City,36.13336,-85.786582,West,Tennessee Valley
+LOTN01559,US,TN,Bartlett,36.198132,-86.06169,West,Tennessee Valley
+LOTN01560,US,TN,Hendersonville,36.100851,-86.177009,West,Tennessee Valley
+LOIL01583,US,IL,Springfield,40.875889,-88.762199,Central/Northeast,Missouri Valley
+LOIL01584,US,IL,Rockford,40.707801,-89.248695,Central/Northeast,Missouri Valley
+LOIL01587,US,IL,Joliet,40.824732,-89.284081,Central/Northeast,Kansas City
+LOCA01588,US,CA,Bakersfield,35.808861,-118.950175,Central/Northeast,Bay Area
+LOCA01589,US,CA,Stockton,35.952855,-118.764397,Central/Northeast,Bay Area
+LOCA01590,US,CA,Modesto,36.190466,-119.09491,Central/Northeast,Bay Area
+LOCA01591,US,CA,Riverside,35.855654,-119.072185,Central/Northeast,Bay Area
+LOCA01592,US,CA,San Bernardino,36.054177,-119.139162,Central/Northeast,Bay Area
+LOCA01593,US,CA,Fontana,36.074489,-119.054353,Central/Northeast,Bay Area
+LOCA01594,US,CA,Moreno Valley,36.031228,-119.038324,Central/Northeast,Bay Area
+LOCA01595,US,CA,Oxnard,35.876679,-118.730928,Central/Northeast,Bay Area
+LOCA01596,US,CA,Pomona,36.158163,-119.215932,Central/Northeast,Bay Area
+LOCA01597,US,CA,Escondido,36.221081,-119.007541,Central/Northeast,Bay Area
+LOCA01598,US,CA,Hayward,36.236731,-118.820087,Central/Northeast,Bay Area
+LOCA01599,US,CA,Sunnyvale,35.955128,-119.286518,Central/Northeast,Bay Area
+LOCA01600,US,CA,Pasadena,35.861206,-118.975019,Central/Northeast,Bay Area
+LOCA01601,US,CA,Sacramento,36.080087,-119.145267,Central/Northeast,Bay Area
+LOCA01603,US,CA,Fresno,35.783614,-118.799042,Central/Northeast,Bay Area
+LOCA01604,US,CA,Bakersfield,36.290641,-118.984586,Central/Northeast,Bay Area
+LOIL01610,US,IL,Naperville,40.803008,-89.136616,Central/Northeast,Chicago Metro
+LOWA01618,US,WA,Renton,47.211034,-119.751421,West,Puget Sound
+LOWA01619,US,WA,Kirkland,47.270651,-119.95409,West,Puget Sound
+LONY01620,US,NY,New Rochelle,42.864433,-75.967493,Central/Northeast,Upstate NY
+LONY01621,US,NY,White Plains,43.090852,-75.802155,Central/Northeast,Upstate NY
+LONY01622,US,NY,Troy,42.823853,-76.293403,Central/Northeast,Upstate NY
+LOCA01629,US,CA,Stockton,35.782131,-118.759989,Central/Northeast,Bay Area
+LOCA01630,US,CA,Modesto,36.224334,-118.941552,Central/Northeast,Bay Area
+LOCA01631,US,CA,Riverside,36.06031,-118.900978,Central/Northeast,Bay Area
+LOCA01632,US,CA,San Bernardino,35.805223,-118.751353,Central/Northeast,Bay Area
+LOCA01633,US,CA,Fontana,35.951262,-119.070117,Central/Northeast,Bay Area
+LOCA01634,US,CA,Moreno Valley,36.011351,-119.27182,Central/Northeast,Bay Area
+LOCA01635,US,CA,Oxnard,35.79977,-118.85718,Central/Northeast,Bay Area
+LOCA01636,US,CA,Pomona,35.749679,-118.938109,Central/Northeast,Bay Area
+LOCA01637,US,CA,Escondido,35.847209,-119.066423,Central/Northeast,Bay Area
+LOCA01638,US,CA,Hayward,35.873216,-119.086596,Central/Northeast,Bay Area
+LOCA01639,US,CA,Sunnyvale,36.131428,-119.121727,Central/Northeast,Bay Area
+LOCA01640,US,CA,Pasadena,36.039843,-119.01437,Central/Northeast,Bay Area
+LOCA01641,US,CA,Sacramento,36.098203,-118.737902,Central/Northeast,Bay Area
+LOCA01642,US,CA,Fresno,36.139543,-119.171036,Central/Northeast,Bay Area
+LOCA01643,US,CA,Bakersfield,35.71871,-119.142642,Central/Northeast,Bay Area
+LOCA01644,US,CA,Stockton,36.057047,-119.269145,Central/Northeast,Bay Area
+LOCA01645,US,CA,Modesto,35.99782,-118.941894,Central/Northeast,Bay Area
+LOCA01646,US,CA,Riverside,35.900546,-118.837453,Central/Northeast,Bay Area
+LOCA01647,US,CA,San Bernardino,35.763959,-119.254917,Central/Northeast,Bay Area
+LOCA01648,US,CA,Fontana,36.136913,-119.002705,Central/Northeast,Bay Area
+LOCA01649,US,CA,Moreno Valley,36.113041,-119.039104,Central/Northeast,Bay Area
+LOCA01650,US,CA,Oxnard,35.847841,-118.808539,Central/Northeast,Bay Area
+LOCA01651,US,CA,Pomona,36.17965,-118.883182,Central/Northeast,Bay Area
+LOCA01652,US,CA,Escondido,35.863287,-118.945862,Central/Northeast,Bay Area
+LOCA01653,US,CA,Hayward,35.916584,-119.245051,Central/Northeast,Bay Area
+LOCA01654,US,CA,Sunnyvale,36.250388,-119.217909,Central/Northeast,Bay Area
+LOIL01658,US,IL,Peoria,41.270142,-89.032397,Central/Northeast,Midwest Interior
+LONC01670,US,NC,Fayetteville,35.31108,-78.974859,West,Carolinas Interior
+LOTN01674,US,TN,Kingsport,36.223768,-85.860665,West,Nashville Metro
+LOTN01676,US,TN,Jackson,36.183937,-85.90473,West,Nashville Metro
+LOTN01677,US,TN,Nashville,36.115366,-85.790483,West,Nashville Metro
+LOTN01678,US,TN,Memphis,35.849801,-86.006345,West,Nashville Metro
+LOTN01683,US,TN,Knoxville,35.832726,-85.707399,West,Tennessee Valley
+LOWA01684,US,WA,Bellevue,47.766436,-120.276344,West,Pacific Northwest
+LOWA01685,US,WA,Everett,47.623345,-119.744851,West,Pacific Northwest
+LOWA01686,US,WA,Yakima,47.308345,-119.959233,West,Pacific Northwest
+LOWA01687,US,WA,Bellingham,47.749293,-120.279632,West,Pacific Northwest
+LOWA01689,US,WA,Marysville,47.618452,-120.121591,West,Pacific Northwest
+LOWA01690,US,WA,Redmond,47.754638,-119.717365,West,Pacific Northwest
+LOWA01691,US,WA,Lakewood,47.76656,-120.015471,West,Pacific Northwest
+LOWA01692,US,WA,Spokane,47.717226,-119.79327,West,Pacific Northwest
+LOWA01693,US,WA,Tacoma,47.39146,-119.802651,West,Pacific Northwest
+LOWA01694,US,WA,Vancouver,47.222205,-119.942238,West,Pacific Northwest
+LOWA01695,US,WA,Bellevue,47.338005,-120.22766,West,Pacific Northwest
+LOWA01696,US,WA,Kennewick,47.246172,-119.882227,West,Pacific Northwest
+LONC01697,US,NC,Cary,35.403925,-78.86514,West,Carolinas Interior
+LOCA01699,US,CA,Pasadena,35.739214,-119.110826,Central/Northeast,Sacramento Valley
+LOIL01703,US,IL,Elgin,41.023695,-88.825566,Central/Northeast,Missouri Valley
+LOIL01704,US,IL,Waukegan,40.891252,-88.924465,Central/Northeast,Missouri Valley
+LOIL01705,US,IL,Cicero,41.231587,-88.930482,Central/Northeast,Missouri Valley
+LOIL01706,US,IL,Champaign,40.839776,-89.28536,Central/Northeast,Missouri Valley
+LOIL01707,US,IL,Bloomington,41.222059,-89.287238,Central/Northeast,Missouri Valley
+LOIL01708,US,IL,Decatur,41.224821,-88.982638,Central/Northeast,Missouri Valley
+LOTN01709,US,TN,Chattanooga,36.263441,-85.82073,West,Tennessee Valley
+LONC01718,US,NC,Wilmington,35.79876,-79.089573,West,Carolinas Interior
+LONY01727,US,NY,Utica,43.160313,-76.058841,Central/Northeast,Upstate NY
+LOCA01730,US,CA,Sacramento,35.987925,-118.923497,Central/Northeast,Greater LA
+LOCA01731,US,CA,Fresno,36.224206,-118.70955,Central/Northeast,Greater LA
+LOCA01733,US,CA,Bakersfield,36.160964,-119.04934,Central/Northeast,Greater LA
+LOCA01734,US,CA,Stockton,35.952814,-118.857451,Central/Northeast,Central Valley
+LOCA01735,US,CA,Modesto,35.843266,-119.233716,Central/Northeast,Central Valley
+LOCA01736,US,CA,Riverside,35.912773,-119.127657,Central/Northeast,Central Valley
+LOCA01737,US,CA,San Bernardino,35.877785,-119.159835,Central/Northeast,Central Valley
+LOCA01738,US,CA,Fontana,35.725256,-119.289276,Central/Northeast,Central Valley
+LOCA01739,US,CA,Moreno Valley,36.292633,-119.043336,Central/Northeast,Central Valley
+LOCA01740,US,CA,Oxnard,35.930596,-118.892212,Central/Northeast,Central Valley
+LOCA01741,US,CA,Pomona,35.830952,-118.730023,Central/Northeast,Central Valley
+LOCA01742,US,CA,Escondido,36.171807,-119.246353,Central/Northeast,Central Valley
+LOCA01743,US,CA,Hayward,35.950548,-118.772529,Central/Northeast,Central Valley
+LOCA01744,US,CA,Sunnyvale,36.266839,-119.019559,Central/Northeast,Central Valley
+LOCA01745,US,CA,Pasadena,36.068047,-119.19978,Central/Northeast,Central Valley
+LOCA01746,US,CA,Sacramento,36.294701,-119.160997,Central/Northeast,Central Valley
+LOCA01747,US,CA,Fresno,36.265639,-118.910212,Central/Northeast,Central Valley
+LOCA01748,US,CA,Bakersfield,36.064642,-118.992387,Central/Northeast,Central Valley
+LOCA01749,US,CA,Stockton,35.838402,-119.194083,Central/Northeast,Central Valley
+LOCA01750,US,CA,Modesto,35.832292,-119.188137,Central/Northeast,Central Valley
+LOCA01751,US,CA,Riverside,36.167751,-119.089925,Central/Northeast,Central Valley
+LOCA01752,US,CA,San Bernardino,35.734706,-118.718538,Central/Northeast,Central Valley
+LOCA01757,US,CA,Fontana,36.230272,-118.743349,Central/Northeast,Bay Area
+LOCA01758,US,CA,Moreno Valley,36.296945,-119.195663,Central/Northeast,Bay Area
+LOCA01759,US,CA,Oxnard,35.937745,-118.845057,Central/Northeast,Bay Area
+LOCA01760,US,CA,Pomona,36.117612,-119.207662,Central/Northeast,Bay Area
+LOCA01765,US,CA,Escondido,36.1895,-119.165336,Central/Northeast,Bay Area
+LOCA01766,US,CA,Hayward,35.834291,-118.977815,Central/Northeast,Bay Area
+LOCA01767,US,CA,Sunnyvale,36.055764,-118.951948,Central/Northeast,Bay Area
+LOCA01768,US,CA,Pasadena,35.754892,-118.773523,Central/Northeast,Bay Area
+LOCA01769,US,CA,Sacramento,35.85936,-119.222291,Central/Northeast,Bay Area
+LOCA01770,US,CA,Fresno,36.233249,-118.726609,Central/Northeast,Bay Area
+LOCA01771,US,CA,Bakersfield,36.217277,-118.81429,Central/Northeast,Bay Area
+LOCA01772,US,CA,Stockton,36.093145,-118.969486,Central/Northeast,Bay Area
+LOCA01773,US,CA,Modesto,35.752192,-119.054928,Central/Northeast,Bay Area
+LOCA01774,US,CA,Riverside,35.923613,-119.144148,Central/Northeast,Bay Area
+LOCA01775,US,CA,San Bernardino,36.134052,-119.002475,Central/Northeast,Bay Area
+LONY01784,US,NY,Schenectady,42.748628,-76.16789,Central/Northeast,New York Metro
+LONY01785,US,NY,Mount Vernon,43.109955,-76.254321,Central/Northeast,New York Metro
+LONY01786,US,NY,Binghamton,43.210724,-76.002912,Central/Northeast,New York Metro
+LONY01787,US,NY,Niagara Falls,42.988352,-75.944555,Central/Northeast,New York Metro
+LONY01788,US,NY,Buffalo,43.194809,-76.091314,Central/Northeast,New York Metro
+LONY01789,US,NY,Rochester,43.10681,-75.960561,Central/Northeast,New York Metro
+LONY01790,US,NY,Yonkers,42.860217,-75.772822,Central/Northeast,New York Metro
+LONY01791,US,NY,Syracuse,43.178456,-75.904929,Central/Northeast,New York Metro
+LONY01792,US,NY,Albany,43.210349,-75.779623,Central/Northeast,New York Metro
+LONY01793,US,NY,New Rochelle,43.125018,-75.797792,Central/Northeast,New York Metro
+LONY01794,US,NY,White Plains,43.118483,-75.891916,Central/Northeast,New York Metro
+LONY01795,US,NY,Troy,43.071167,-75.84837,Central/Northeast,New York Metro
+LONY01796,US,NY,Utica,42.795163,-75.771478,Central/Northeast,New York Metro
+LONY01797,US,NY,Schenectady,43.223106,-76.282452,Central/Northeast,New York Metro
+LONY01798,US,NY,Mount Vernon,43.19549,-76.222678,Central/Northeast,New York Metro
+LONY01799,US,NY,Binghamton,42.901071,-75.853895,Central/Northeast,New York Metro
+LONY01800,US,NY,Niagara Falls,42.796456,-75.80922,Central/Northeast,New York Metro
+LONY01801,US,NY,Buffalo,43.199281,-75.995519,Central/Northeast,New York Metro
+LONY01802,US,NY,Rochester,42.703832,-76.127777,Central/Northeast,New York Metro
+LONY01803,US,NY,Yonkers,43.070156,-75.711288,Central/Northeast,New York Metro
+LONY01804,US,NY,Syracuse,43.079088,-76.144118,Central/Northeast,New York Metro
+LONY01805,US,NY,Albany,43.080403,-75.976009,Central/Northeast,New York Metro
+LONY01807,US,NY,New Rochelle,43.167907,-76.235812,Central/Northeast,New York Metro
+LONY01808,US,NY,White Plains,43.156617,-75.97524,Central/Northeast,New York Metro
+LONY01809,US,NY,Troy,43.277795,-76.094877,Central/Northeast,New York Metro
+LONY01810,US,NY,Utica,43.079573,-75.740783,Central/Northeast,New York Metro
+LONY01811,US,NY,Schenectady,42.761506,-75.737663,Central/Northeast,New York Metro
+LONY01812,US,NY,Mount Vernon,43.112731,-76.259298,Central/Northeast,New York Metro
+LONY01814,US,NY,Binghamton,42.880578,-75.875097,Central/Northeast,New York Metro
+LONY01815,US,NY,Niagara Falls,42.74041,-75.950698,Central/Northeast,New York Metro
+LONY01816,US,NY,Buffalo,42.90753,-75.927451,Central/Northeast,New York Metro
+LONY01817,US,NY,Rochester,42.727445,-75.777078,Central/Northeast,New York Metro
+LONY01818,US,NY,Yonkers,43.284093,-75.718673,Central/Northeast,New York Metro
+LONY01819,US,NY,Syracuse,43.149791,-76.221948,Central/Northeast,New York Metro
+LONY01820,US,NY,Albany,43.154958,-76.285248,Central/Northeast,New York Metro
+LONY01821,US,NY,New Rochelle,42.713274,-76.105834,Central/Northeast,New York Metro
+LONY01822,US,NY,White Plains,42.993186,-75.837756,Central/Northeast,New York Metro
+LONY01823,US,NY,Troy,43.109977,-76.032458,Central/Northeast,New York Metro
+LONY01824,US,NY,Utica,42.864176,-75.701725,Central/Northeast,New York Metro
+LONY01825,US,NY,Schenectady,42.955709,-76.029168,Central/Northeast,New York Metro
+LONY01826,US,NY,Mount Vernon,42.798174,-75.823114,Central/Northeast,New York Metro
+LONY01827,US,NY,Binghamton,43.116209,-76.167538,Central/Northeast,New York Metro
+LONY01828,US,NY,Niagara Falls,42.749429,-75.8917,Central/Northeast,New York Metro
+LONY01829,US,NY,Buffalo,43.092707,-76.136044,Central/Northeast,New Jersey
+LONY01830,US,NY,Rochester,43.270518,-76.209365,Central/Northeast,New Jersey
+LONY01831,US,NY,Yonkers,42.959401,-75.73383,Central/Northeast,New Jersey
+LONY01832,US,NY,Syracuse,42.951836,-75.916884,Central/Northeast,New Jersey
+LONY01833,US,NY,Albany,42.938557,-76.135471,Central/Northeast,New Jersey
+LONY01834,US,NY,New Rochelle,43.290387,-76.0544,Central/Northeast,New Jersey
+LONY01835,US,NY,White Plains,43.23646,-76.162027,Central/Northeast,New Jersey
+LONY01836,US,NY,Troy,42.827863,-76.28132,Central/Northeast,New Jersey
+LONY01837,US,NY,Utica,43.091,-76.078884,Central/Northeast,New Jersey
+LONY01838,US,NY,Schenectady,43.218615,-76.016074,Central/Northeast,New Jersey
+LONY01839,US,NY,Mount Vernon,43.280916,-76.188685,Central/Northeast,New Jersey
+LONY01841,US,NY,Binghamton,43.221174,-75.834042,Central/Northeast,Long Island
+LONY01842,US,NY,Niagara Falls,43.162553,-75.79313,Central/Northeast,Long Island
+LONY01843,US,NY,Buffalo,43.156614,-75.924268,Central/Northeast,Long Island
+LONY01844,US,NY,Rochester,42.778747,-76.280484,Central/Northeast,Long Island
+LONY01845,US,NY,Yonkers,43.252509,-75.93001,Central/Northeast,Long Island
+LONY01846,US,NY,Syracuse,43.177922,-76.011087,Central/Northeast,Long Island
+LONY01847,US,NY,Albany,42.770385,-76.224889,Central/Northeast,Long Island
+LONY01848,US,NY,New Rochelle,43.111339,-76.041816,Central/Northeast,Long Island
+LONY01849,US,NY,White Plains,42.820315,-76.005043,Central/Northeast,Long Island
+LONY01850,US,NY,Troy,42.738525,-75.950817,Central/Northeast,Long Island
+LONY01852,US,NY,Utica,42.861396,-75.821465,Central/Northeast,New York Metro
+LONY01853,US,NY,Schenectady,42.886217,-76.026868,Central/Northeast,New Jersey
+LONY01854,US,NY,Mount Vernon,42.706972,-76.256532,Central/Northeast,New York Metro
+LONY01855,US,NY,Binghamton,42.935496,-76.012037,Central/Northeast,New York Metro
+LONC01856,US,NC,High Point,35.560012,-79.125002,West,Carolinas Interior
+LONC01857,US,NC,Concord,35.616989,-78.783927,West,Carolinas Interior
+LONC01858,US,NC,Gastonia,35.667911,-79.276229,West,Carolinas Interior
+LOWA01859,US,WA,Renton,47.488304,-120.237042,West,Puget Sound
+LOWA01860,US,WA,Kirkland,47.345227,-119.708002,West,Puget Sound
+LOWA01861,US,WA,Bellevue,47.285497,-120.000667,West,Puget Sound
+LOIL01862,US,IL,Aurora,41.070893,-88.878521,Central/Northeast,Chicago Metro
+LOMO01863,US,MO,Kansas City,38.535789,-92.294137,Central/Northeast,Midwest
+LOMO01864,US,MO,St. Louis,38.395877,-91.989373,Central/Northeast,Midwest
+LOMO01865,US,MO,Springfield,38.25272,-92.089624,Central/Northeast,Midwest
+LOMO01866,US,MO,Columbia,38.219922,-92.252853,Central/Northeast,Midwest
+LOWA01868,US,WA,Everett,47.438154,-120.220371,West,Eastern WA
+LOCA01870,US,CA,Fontana,36.040525,-118.886321,Central/Northeast,Bay Area
+LOCA01871,US,CA,Moreno Valley,36.180352,-119.17991,Central/Northeast,Sacramento Valley
+LOTX01872,US,TX,Pasadena,29.80049,-97.237259,South/Southeast,Texas Gulf
+LOTX01874,US,TX,Austin,30.081858,-96.876115,South/Southeast,Southeast
+LOTX01875,US,TX,San Antonio,29.718952,-96.738273,South/Southeast,Southeast
+LOTX01876,US,TX,Dallas,29.731183,-96.975222,South/Southeast,Southeast
+LOTX01877,US,TX,Fort Worth,30.125436,-96.777419,South/Southeast,Southeast
+LOTX01878,US,TX,Plano,30.128452,-96.818963,South/Southeast,Southeast
+LOTX01879,US,TX,Arlington,29.90367,-96.811105,South/Southeast,Southeast
+LOTX01880,US,TX,Lubbock,29.748069,-96.76311,South/Southeast,Southeast
+LOTX01881,US,TX,Laredo,30.028555,-96.809621,South/Southeast,Southeast
+LOTX01882,US,TX,Irving,29.971391,-96.913853,South/Southeast,Southeast
+LOTX01883,US,TX,Garland,30.015842,-96.861046,South/Southeast,Southeast
+LOTX01884,US,TX,Amarillo,29.748978,-97.263789,South/Southeast,Southeast
+LOIL01885,US,IL,Evanston,40.848262,-89.204273,Central/Northeast,Chicago Metro
+LOWA01896,US,WA,Yakima,47.72307,-120.168472,West,Eastern WA
+LOWA01897,US,WA,Bellingham,47.785519,-120.097863,West,Eastern WA
+LOMO01900,US,MO,Independence,38.309271,-91.826181,Central/Northeast,Midwest
+LOIL01902,US,IL,Schaumburg,41.095225,-89.001083,Central/Northeast,Chicago Metro
+LOIL01903,US,IL,Bolingbrook,41.033218,-88.868479,Central/Northeast,Chicago Metro
+LOIL01904,US,IL,Springfield,40.837073,-88.7022,Central/Northeast,Chicago Metro
+LOIL01905,US,IL,Rockford,41.284876,-88.909805,Central/Northeast,Chicago Metro
+LOIL01906,US,IL,Joliet,40.819725,-88.891863,Central/Northeast,Chicago Metro
+LOIL01907,US,IL,Naperville,40.743319,-89.281608,Central/Northeast,Chicago Metro
+LOWA01912,US,WA,Marysville,47.35461,-120.022426,West,Eastern WA
+LOWA01913,US,WA,Redmond,47.720964,-119.863699,West,Eastern WA
+LOWA01914,US,WA,Lakewood,47.645624,-120.044704,West,Eastern WA
+LOWA01915,US,WA,Spokane,47.407561,-120.077377,West,Eastern WA
+LOWA01916,US,WA,Tacoma,47.79259,-120.275934,West,Eastern WA
+LOWA01917,US,WA,Vancouver,47.720219,-119.952795,West,Eastern WA
+LOWA01918,US,WA,Bellevue,47.463169,-119.864845,West,Eastern WA
+LOWA01919,US,WA,Kennewick,47.492001,-119.775946,West,Eastern WA
+LOWA01920,US,WA,Renton,47.740421,-120.046967,West,Eastern WA
+LOWA01921,US,WA,Kirkland,47.366097,-119.94459,West,Eastern WA
+LOIL01923,US,IL,Peoria,41.247418,-89.173603,Central/Northeast,Chicago Metro
+LOIL01924,US,IL,Elgin,41.07378,-88.921064,Central/Northeast,Chicago Metro
+LOIL01925,US,IL,Waukegan,41.139868,-89.221059,Central/Northeast,Chicago Metro
+LOWA01937,US,WA,Bellevue,47.629495,-119.75458,West,Eastern WA
+LOCA01938,US,CA,Oxnard,35.80781,-119.157474,Central/Northeast,Bay Area
+LOCA01939,US,CA,Pomona,36.282837,-119.191414,Central/Northeast,Bay Area
+LOCA01940,US,CA,Escondido,36.212631,-119.004633,Central/Northeast,Bay Area
+LOCA01941,US,CA,Hayward,35.848339,-118.77755,Central/Northeast,Bay Area
+LOCA01942,US,CA,Sunnyvale,35.967183,-118.99111,Central/Northeast,Greater LA
+LOCA01944,US,CA,Pasadena,35.91554,-118.944229,Central/Northeast,Greater LA
+LOCA01945,US,CA,Sacramento,35.798114,-119.065351,Central/Northeast,Greater LA
+LOCA01946,US,CA,Fresno,36.281647,-119.14512,Central/Northeast,Greater LA
+LOCA01947,US,CA,Bakersfield,36.094042,-119.104886,Central/Northeast,Greater LA
+LOCA01948,US,CA,Stockton,36.164084,-119.221476,Central/Northeast,Greater LA
+LOCA01949,US,CA,Modesto,36.281893,-119.027726,Central/Northeast,Greater LA
+LOCA01950,US,CA,Riverside,35.84163,-119.255902,Central/Northeast,Greater LA
+LOCA01951,US,CA,San Bernardino,35.801855,-118.988136,Central/Northeast,Greater LA
+LOCA01952,US,CA,Fontana,35.902202,-118.80267,Central/Northeast,Greater LA
+LOCA01953,US,CA,Moreno Valley,35.958533,-119.150771,Central/Northeast,Greater LA
+LOCA01954,US,CA,Oxnard,36.070287,-118.875934,Central/Northeast,Greater LA
+LOCA01955,US,CA,Pomona,35.800225,-119.199428,Central/Northeast,Greater LA
+LOWA01958,US,WA,Everett,47.222003,-119.858159,West,Pacific Northwest
+LOTN01960,US,TN,Clarksville,36.098283,-86.015221,West,Tennessee Valley
+LOIL01970,US,IL,Cicero,41.206502,-88.816598,Central/Northeast,Chicago Metro
+LONC01972,US,NC,Asheville,35.551213,-78.779037,West,Carolinas Interior
+LOCA01974,US,CA,Escondido,35.823505,-119.232848,Central/Northeast,Greater LA
+LOCA01978,US,CA,Hayward,35.86185,-119.265748,Central/Northeast,Greater LA
+LOCA01979,US,CA,Sunnyvale,36.018702,-118.738037,Central/Northeast,Greater LA
+LOCA01980,US,CA,Pasadena,35.723606,-119.226734,Central/Northeast,Greater LA
+LOCA01981,US,CA,Sacramento,35.971319,-118.739675,Central/Northeast,Greater LA
+LOCA01982,US,CA,Fresno,35.889694,-118.995659,Central/Northeast,Greater LA
+LOCA01983,US,CA,Bakersfield,35.724944,-119.210994,Central/Northeast,Greater LA
+LOCA01984,US,CA,Stockton,36.291978,-118.720929,Central/Northeast,Greater LA
+LOCA01985,US,CA,Modesto,35.702964,-118.728913,Central/Northeast,Greater LA
+LOCA01986,US,CA,Riverside,36.083472,-118.779249,Central/Northeast,Greater LA
+LOCA01987,US,CA,San Bernardino,35.972844,-118.990642,Central/Northeast,Greater LA
+LOCA01988,US,CA,Fontana,35.993308,-118.899881,Central/Northeast,Greater LA
+LOCA01989,US,CA,Moreno Valley,35.783791,-119.282016,Central/Northeast,Greater LA
+LOCA01990,US,CA,Oxnard,35.884758,-118.877192,Central/Northeast,Greater LA
+LOCA01992,US,CA,Pomona,35.821112,-118.895941,Central/Northeast,Greater LA
+LOCA01993,US,CA,Escondido,36.281947,-119.24366,Central/Northeast,Greater LA
+LOCA01994,US,CA,Hayward,36.103561,-119.03375,Central/Northeast,Greater LA
+LOCA01995,US,CA,Sunnyvale,36.220885,-119.19371,Central/Northeast,Greater LA
+LOCA01996,US,CA,Pasadena,36.115576,-118.797131,Central/Northeast,Greater LA
+LOCA01997,US,CA,Sacramento,36.266769,-118.890051,Central/Northeast,Greater LA
+LOCA01998,US,CA,Fresno,35.998305,-118.929292,Central/Northeast,Greater LA
+LOCA01999,US,CA,Bakersfield,36.221343,-118.957634,Central/Northeast,Greater LA
+LOCA02000,US,CA,Stockton,35.718232,-118.741431,Central/Northeast,Greater LA
+LOCA02001,US,CA,Modesto,36.113716,-118.894092,Central/Northeast,Greater LA
+LOCA02002,US,CA,Riverside,35.829405,-118.904669,Central/Northeast,Greater LA
+LOCA02003,US,CA,San Bernardino,35.936319,-118.90926,Central/Northeast,Greater LA
+LOCA02006,US,CA,Fontana,35.763956,-118.905293,Central/Northeast,Greater LA
+LOCA02007,US,CA,Moreno Valley,36.299648,-119.271073,Central/Northeast,Bay Area
+LOCA02008,US,CA,Oxnard,36.286305,-119.055855,Central/Northeast,Central Valley
+LOCA02009,US,CA,Pomona,36.222452,-118.830569,Central/Northeast,Central Valley
+LOCA02010,US,CA,Escondido,36.04021,-118.85693,Central/Northeast,Bay Area
+LOCA02011,US,CA,Hayward,36.227109,-119.057516,Central/Northeast,Bay Area
+LOCA02012,US,CA,Sunnyvale,35.89622,-118.899444,Central/Northeast,Bay Area
+LOTX02014,US,TX,McKinney,30.184708,-96.842629,South/Southeast,Texas Gulf
+LOWA02015,US,WA,Yakima,47.678688,-120.03865,West,Eastern WA
+LOIL02026,US,IL,Champaign,41.190701,-89.227875,Central/Northeast,Chicago Metro
+LOIL02027,US,IL,Bloomington,41.026693,-89.296545,Central/Northeast,Chicago Metro
+LOIL02028,US,IL,Decatur,40.894751,-89.080123,Central/Northeast,Missouri Valley
+LOIL02029,US,IL,Aurora,40.937704,-88.88272,Central/Northeast,Missouri Valley
+LOIL02030,US,IL,Evanston,40.933135,-89.030784,Central/Northeast,Missouri Valley
+LOWA02031,US,WA,Bellingham,47.342526,-120.076049,West,Pacific Northwest
+LONY02032,US,NY,Niagara Falls,42.836362,-76.256082,Central/Northeast,New York Metro
+LOCA02034,US,CA,Pasadena,36.062069,-118.899072,Central/Northeast,Bay Area
+LOCA02035,US,CA,Sacramento,36.071694,-119.021904,Central/Northeast,Bay Area
+LOCA02036,US,CA,Fresno,35.927871,-118.782,Central/Northeast,Bay Area
+LOIL02037,US,IL,Schaumburg,41.011449,-89.012491,Central/Northeast,Missouri Valley
+LOIL02040,US,IL,Bolingbrook,40.715385,-89.095251,Central/Northeast,Chicago Metro
+LOIL02041,US,IL,Springfield,40.928117,-89.060706,Central/Northeast,Chicago Metro
+LOIL02042,US,IL,Rockford,41.048103,-88.979838,Central/Northeast,Chicago Metro
+LOIL02043,US,IL,Joliet,41.064743,-88.84107,Central/Northeast,Chicago Metro
+LOIL02044,US,IL,Naperville,41.187791,-88.869126,Central/Northeast,Chicago Metro
+LONC02047,US,NC,Greenville,35.773314,-79.28906,West,Carolinas Interior
+LONC02048,US,NC,Charlotte,35.317467,-79.295462,West,Carolinas Interior
+LONC02049,US,NC,Raleigh,35.588485,-78.761182,West,Carolinas Interior
+LONC02050,US,NC,Greensboro,35.346089,-78.743779,West,Carolinas Interior
+LONC02051,US,NC,Durham,35.23616,-78.739338,West,Carolinas Interior
+LONC02052,US,NC,Winston-Salem,35.410974,-79.239148,West,Carolinas Interior
+LONC02053,US,NC,Fayetteville,35.491523,-79.145934,West,Carolinas Interior
+LOWA02055,US,WA,Marysville,47.370924,-120.115626,West,Puget Sound
+LOTN02076,US,TN,Murfreesboro,36.181816,-85.976503,West,Nashville Metro
+LOTN02077,US,TN,Franklin,35.886785,-85.9338,West,Nashville Metro
+LOTN02080,US,TN,Johnson City,36.12969,-86.136426,West,Nashville Metro
+LOTN02081,US,TN,Bartlett,35.948129,-86.226868,West,Nashville Metro
+LOTN02083,US,TN,Hendersonville,35.80869,-85.891329,West,Nashville Metro
+LOWA02084,US,WA,Redmond,47.308863,-119.984902,West,Pacific Northwest
+LOWA02085,US,WA,Lakewood,47.625428,-120.235874,West,Pacific Northwest
+LOWA02086,US,WA,Spokane,47.540387,-120.146062,West,Pacific Northwest
+LOWA02087,US,WA,Tacoma,47.777756,-120.009873,West,Pacific Northwest
+LOWA02088,US,WA,Vancouver,47.683596,-119.969864,West,Pacific Northwest
+LOWA02089,US,WA,Bellevue,47.226048,-119.920109,West,Pacific Northwest
+LOCA02106,US,CA,Bakersfield,36.270842,-118.939033,Central/Northeast,Greater LA
+LOCA02108,US,CA,Stockton,36.191513,-118.769476,Central/Northeast,Greater LA
+LOCA02109,US,CA,Modesto,35.836848,-119.172773,Central/Northeast,Greater LA
+LOCA02110,US,CA,Riverside,36.066589,-119.053383,Central/Northeast,Greater LA
+LOCA02111,US,CA,San Bernardino,36.203917,-118.759986,Central/Northeast,Greater LA
+LOCA02112,US,CA,Fontana,35.912053,-119.157878,Central/Northeast,Greater LA
+LOCA02113,US,CA,Moreno Valley,36.168315,-119.135116,Central/Northeast,Greater LA
+LOCA02114,US,CA,Oxnard,36.193569,-119.045757,Central/Northeast,Greater LA
+LOCA02115,US,CA,Pomona,36.10053,-119.242679,Central/Northeast,Greater LA
+LOCA02116,US,CA,Escondido,36.074316,-119.028939,Central/Northeast,Greater LA
+LOCA02117,US,CA,Hayward,36.051965,-119.199191,Central/Northeast,Greater LA
+LOCA02118,US,CA,Sunnyvale,36.142124,-118.782322,Central/Northeast,Greater LA
+LOCA02119,US,CA,Pasadena,35.830044,-119.242571,Central/Northeast,Greater LA
+LOCA02120,US,CA,Sacramento,35.714183,-118.914817,Central/Northeast,Greater LA
+LOCA02121,US,CA,Fresno,36.064256,-118.971982,Central/Northeast,Greater LA
+LOCA02122,US,CA,Bakersfield,35.839168,-119.065456,Central/Northeast,Greater LA
+LOCA02123,US,CA,Stockton,36.056686,-119.00194,Central/Northeast,Greater LA
+LOCA02124,US,CA,Modesto,36.292671,-119.218136,Central/Northeast,Greater LA
+LOCA02125,US,CA,Riverside,36.117087,-119.057409,Central/Northeast,Greater LA
+LOCA02126,US,CA,San Bernardino,35.95692,-118.869441,Central/Northeast,Greater LA
+LOCA02127,US,CA,Fontana,36.115462,-118.705246,Central/Northeast,Greater LA
+LOCA02128,US,CA,Moreno Valley,35.777037,-119.237534,Central/Northeast,Greater LA
+LOCA02129,US,CA,Oxnard,36.134603,-118.952968,Central/Northeast,Greater LA
+LOCA02130,US,CA,Pomona,35.864496,-119.252348,Central/Northeast,Greater LA
+LOCA02131,US,CA,Escondido,35.751395,-118.763485,Central/Northeast,Greater LA
+LOCA02132,US,CA,Hayward,35.81512,-119.105977,Central/Northeast,Greater LA
+LOCA02133,US,CA,Sunnyvale,35.835994,-119.087002,Central/Northeast,Greater LA
+LOCA02134,US,CA,Pasadena,35.741654,-118.988564,Central/Northeast,Greater LA
+LOCA02135,US,CA,Sacramento,35.740568,-118.819786,Central/Northeast,Greater LA
+LOCA02136,US,CA,Fresno,35.840227,-118.975993,Central/Northeast,Greater LA
+LOCA02137,US,CA,Bakersfield,36.228047,-118.909474,Central/Northeast,Greater LA
+LOCA02138,US,CA,Stockton,36.019775,-119.1054,Central/Northeast,Greater LA
+LOCA02139,US,CA,Modesto,35.899801,-118.898308,Central/Northeast,Greater LA
+LOCA02140,US,CA,Riverside,36.296484,-118.902896,Central/Northeast,Greater LA
+LOCA02141,US,CA,San Bernardino,36.03467,-118.86161,Central/Northeast,Greater LA
+LOCA02142,US,CA,Fontana,35.979123,-119.263915,Central/Northeast,Greater LA
+LOCA02143,US,CA,Moreno Valley,36.037378,-118.725425,Central/Northeast,Greater LA
+LOCA02144,US,CA,Oxnard,35.805182,-118.885997,Central/Northeast,Greater LA
+LOCA02145,US,CA,Pomona,35.82056,-118.978503,Central/Northeast,Greater LA
+LOCA02146,US,CA,Escondido,35.758006,-119.029777,Central/Northeast,Greater LA
+LOCA02147,US,CA,Hayward,36.153698,-119.091457,Central/Northeast,Greater LA
+LOCA02148,US,CA,Sunnyvale,36.098947,-118.82273,Central/Northeast,Greater LA
+LOCA02149,US,CA,Pasadena,36.256307,-119.159215,Central/Northeast,Greater LA
+LOCA02150,US,CA,Sacramento,35.93959,-119.20855,Central/Northeast,Greater LA
+LOCA02151,US,CA,Fresno,36.29549,-118.743799,Central/Northeast,Greater LA
+LOCA02152,US,CA,Bakersfield,36.023974,-118.79478,Central/Northeast,Greater LA
+LOCA02153,US,CA,Stockton,36.012575,-118.925849,Central/Northeast,Greater LA
+LOCA02154,US,CA,Modesto,35.753475,-118.846838,Central/Northeast,Greater LA
+LOCA02155,US,CA,Riverside,35.776628,-118.804359,Central/Northeast,Greater LA
+LOCA02156,US,CA,San Bernardino,36.169217,-118.874753,Central/Northeast,Greater LA
+LOCA02157,US,CA,Fontana,35.721696,-119.118123,Central/Northeast,Greater LA
+LOCA02158,US,CA,Moreno Valley,35.857868,-119.083918,Central/Northeast,Greater LA
+LOCA02159,US,CA,Oxnard,35.752586,-118.737825,Central/Northeast,Greater LA
+LOCA02160,US,CA,Pomona,36.032281,-119.116685,Central/Northeast,Greater LA
+LOCA02161,US,CA,Escondido,35.938189,-119.031678,Central/Northeast,Greater LA
+LOCA02162,US,CA,Hayward,36.060357,-118.990592,Central/Northeast,Greater LA
+LOCA02163,US,CA,Sunnyvale,36.251635,-119.001822,Central/Northeast,Greater LA
+LOCA02164,US,CA,Pasadena,36.295295,-118.789145,Central/Northeast,Greater LA
+LOCA02165,US,CA,Sacramento,35.825106,-118.741643,Central/Northeast,Greater LA
+LOCA02166,US,CA,Fresno,35.76982,-118.80953,Central/Northeast,Greater LA
+LOCA02167,US,CA,Bakersfield,35.928374,-118.773215,Central/Northeast,Greater LA
+LOCA02168,US,CA,Stockton,36.220834,-118.816445,Central/Northeast,Greater LA
+LOCA02169,US,CA,Modesto,36.174018,-119.117193,Central/Northeast,Greater LA
+LOCA02170,US,CA,Riverside,35.748552,-119.058212,Central/Northeast,Greater LA
+LOCA02171,US,CA,San Bernardino,35.804115,-118.883029,Central/Northeast,Greater LA
+LOCA02172,US,CA,Fontana,35.90766,-118.714634,Central/Northeast,Greater LA
+LOCA02173,US,CA,Moreno Valley,36.084583,-118.806512,Central/Northeast,Greater LA
+LOCA02174,US,CA,Oxnard,35.779515,-118.782791,Central/Northeast,Greater LA
+LOCA02175,US,CA,Pomona,36.253654,-119.007763,Central/Northeast,Greater LA
+LOCA02176,US,CA,Escondido,36.063752,-118.841114,Central/Northeast,Greater LA
+LOCA02177,US,CA,Hayward,35.804903,-118.99846,Central/Northeast,Greater LA
+LOCA02178,US,CA,Sunnyvale,35.939198,-119.212176,Central/Northeast,Greater LA
+LOCA02179,US,CA,Pasadena,35.920521,-119.259097,Central/Northeast,Greater LA
+LOCA02180,US,CA,Sacramento,35.715487,-119.2189,Central/Northeast,Greater LA
+LOCA02181,US,CA,Fresno,36.277869,-118.970282,Central/Northeast,Greater LA
+LOCA02182,US,CA,Bakersfield,36.279493,-119.040501,Central/Northeast,Greater LA
+LOCA02183,US,CA,Stockton,35.88709,-118.996315,Central/Northeast,Greater LA
+LOCA02184,US,CA,Modesto,35.963707,-119.236601,Central/Northeast,Greater LA
+LOCA02188,US,CA,Riverside,36.084496,-119.170377,Central/Northeast,Greater LA
+LOCA02189,US,CA,San Bernardino,36.071753,-118.909879,Central/Northeast,Greater LA
+LOCA02190,US,CA,Fontana,35.791215,-119.26319,Central/Northeast,Greater LA
+LOCA02191,US,CA,Moreno Valley,36.168457,-119.02412,Central/Northeast,Sacramento Valley
+LOCA02192,US,CA,Oxnard,35.734898,-118.70308,Central/Northeast,Sacramento Valley
+LOCA02193,US,CA,Pomona,35.734668,-118.882979,Central/Northeast,Sacramento Valley
+LOWA02194,US,WA,Kennewick,47.790207,-120.156492,West,Pacific Northwest
+LOWA02195,US,WA,Renton,47.28535,-120.227169,West,Pacific Northwest
+LOIL02196,US,IL,Peoria,40.881965,-89.239373,Central/Northeast,Missouri Valley
+LOWA02199,US,WA,Kirkland,47.615297,-120.262625,West,Pacific Northwest
+LOWA02200,US,WA,Bellevue,47.505653,-119.701982,West,Pacific Northwest
+LOWA02201,US,WA,Everett,47.688382,-119.930868,West,Pacific Northwest
+LOTN02206,US,TN,Kingsport,35.883752,-85.925662,West,Tennessee Valley
+LOTN02208,US,TN,Jackson,36.016225,-86.04435,West,Tennessee Valley
+LOIL02209,US,IL,Elgin,40.778426,-88.768037,Central/Northeast,Chicago Metro
+LOMO02210,US,MO,Lee's Summit,38.469871,-92.183226,Central/Northeast,Midwest
+LOMO02211,US,MO,O'Fallon,38.420656,-92.051522,Central/Northeast,Midwest
+LOMO02212,US,MO,St. Joseph,38.696523,-91.859831,Central/Northeast,Midwest
+LOVA02213,US,VA,Newport News,37.661583,-79.293381,South/Southeast,Virginia Coast
+LOVA02216,US,VA,Alexandria,37.449692,-79.011194,South/Southeast,Virginia Coast
+LOVA02217,US,VA,Hampton,37.211515,-79.144112,South/Southeast,Virginia Coast
+LOVA02218,US,VA,Roanoke,37.656174,-79.217734,South/Southeast,Virginia Coast
+LOVA02219,US,VA,Portsmouth,37.521186,-79.170879,South/Southeast,Virginia Coast
+LOVA02220,US,VA,Suffolk,37.207272,-79.155279,South/Southeast,Virginia Coast
+LOCA02221,US,CA,Escondido,36.285524,-118.819078,Central/Northeast,Central Valley
+LOCA02229,US,CA,Hayward,36.275746,-119.007288,Central/Northeast,Central Valley
+LOCA02230,US,CA,Sunnyvale,35.765842,-118.971224,Central/Northeast,Central Valley
+LOCA02231,US,CA,Pasadena,35.972626,-118.793386,Central/Northeast,Central Valley
+LOCA02232,US,CA,Sacramento,35.75885,-119.007055,Central/Northeast,Central Valley
+LOCA02233,US,CA,Fresno,35.790029,-119.105194,Central/Northeast,Central Valley
+LOCA02234,US,CA,Bakersfield,36.142414,-119.014389,Central/Northeast,Central Valley
+LOCA02235,US,CA,Stockton,35.925533,-119.063314,Central/Northeast,Central Valley
+LOCA02236,US,CA,Modesto,35.975668,-118.82899,Central/Northeast,Central Valley
+LOCA02237,US,CA,Riverside,36.235251,-118.726799,Central/Northeast,Central Valley
+LOCA02238,US,CA,San Bernardino,36.172142,-119.110756,Central/Northeast,Central Valley
+LOCA02239,US,CA,Fontana,36.112881,-119.037438,Central/Northeast,Central Valley
+LOCA02240,US,CA,Moreno Valley,35.852802,-118.795477,Central/Northeast,Central Valley
+LOCA02241,US,CA,Oxnard,35.723056,-118.758943,Central/Northeast,Central Valley
+LOCA02242,US,CA,Pomona,35.976886,-118.917679,Central/Northeast,Central Valley
+LOCA02243,US,CA,Escondido,36.095612,-118.762929,Central/Northeast,Central Valley
+LOCA02244,US,CA,Hayward,36.082002,-118.93164,Central/Northeast,Central Valley
+LOCA02245,US,CA,Sunnyvale,35.739991,-118.988955,Central/Northeast,Central Valley
+LOCA02246,US,CA,Pasadena,35.790101,-118.85754,Central/Northeast,Central Valley
+LOCA02247,US,CA,Sacramento,36.007333,-118.891863,Central/Northeast,Central Valley
+LOCA02248,US,CA,Fresno,35.725004,-119.249125,Central/Northeast,Central Valley
+LOCA02249,US,CA,Bakersfield,36.129794,-119.256749,Central/Northeast,Central Valley
+LOCA02250,US,CA,Stockton,35.742754,-119.292735,Central/Northeast,Central Valley
+LOCA02251,US,CA,Modesto,36.273901,-118.857495,Central/Northeast,Central Valley
+LOCA02252,US,CA,Riverside,35.911951,-119.122079,Central/Northeast,Central Valley
+LOCA02253,US,CA,San Bernardino,35.909822,-118.835208,Central/Northeast,Central Valley
+LOIL02254,US,IL,Waukegan,41.096822,-89.188883,Central/Northeast,Midwest Interior
+LOIL02255,US,IL,Cicero,40.804466,-89.240963,Central/Northeast,Midwest Interior
+LOTX02256,US,TX,Frisco,30.096182,-96.841376,South/Southeast,Texas Gulf
+LOTX02257,US,TX,Beaumont,29.859028,-97.287433,South/Southeast,Southeast
+LOTX02258,US,TX,Pasadena,29.749303,-96.719284,South/Southeast,Southeast
+LOTN02259,US,TN,Nashville,35.877267,-85.838466,West,Tennessee Valley
+LOTN02261,US,TN,Memphis,36.074798,-86.070836,West,Tennessee Valley
+LOTN02262,US,TN,Knoxville,35.823412,-86.227168,West,Tennessee Valley
+LOCA02263,US,CA,Fontana,36.069008,-118.83522,Central/Northeast,Bay Area
+LOCA02264,US,CA,Moreno Valley,36.086343,-118.981819,Central/Northeast,Bay Area
+LOCA02269,US,CA,Oxnard,35.725171,-118.718907,Central/Northeast,Sacramento Valley
+LOCA02270,US,CA,Pomona,36.179229,-119.124307,Central/Northeast,Sacramento Valley
+LOCA02271,US,CA,Escondido,36.287982,-118.938871,Central/Northeast,Sacramento Valley
+LOCA02272,US,CA,Hayward,36.049454,-118.851156,Central/Northeast,Sacramento Valley
+LOCA02273,US,CA,Sunnyvale,36.187062,-118.906113,Central/Northeast,Sacramento Valley
+LOCA02275,US,CA,Pasadena,35.776857,-119.097039,Central/Northeast,Sacramento Valley
+LOCA02276,US,CA,Sacramento,36.25685,-119.165231,Central/Northeast,Sacramento Valley
+LOCA02277,US,CA,Fresno,35.9233,-119.040754,Central/Northeast,Sacramento Valley
+LOCA02278,US,CA,Bakersfield,35.963643,-118.932236,Central/Northeast,Sacramento Valley
+LOCA02279,US,CA,Stockton,36.265846,-119.155584,Central/Northeast,Sacramento Valley
+LOCA02280,US,CA,Modesto,35.772901,-119.181518,Central/Northeast,Sacramento Valley
+LOCA02281,US,CA,Riverside,36.232155,-118.912514,Central/Northeast,Sacramento Valley
+LOCA02282,US,CA,San Bernardino,35.871544,-118.810432,Central/Northeast,Sacramento Valley
+LOCA02283,US,CA,Fontana,36.216822,-118.792091,Central/Northeast,Sacramento Valley
+LOCA02284,US,CA,Moreno Valley,36.251356,-119.148655,Central/Northeast,Sacramento Valley
+LOCA02285,US,CA,Oxnard,36.153025,-119.023676,Central/Northeast,Sacramento Valley
+LOCA02286,US,CA,Pomona,36.205199,-118.862906,Central/Northeast,Sacramento Valley
+LOCA02287,US,CA,Escondido,36.165868,-118.906303,Central/Northeast,Sacramento Valley
+LOCA02288,US,CA,Hayward,35.806457,-118.972984,Central/Northeast,Sacramento Valley
+LOCA02289,US,CA,Sunnyvale,36.290802,-118.737567,Central/Northeast,Sacramento Valley
+LOCA02292,US,CA,Pasadena,35.725904,-119.201111,Central/Northeast,Sacramento Valley
+LOCA02293,US,CA,Sacramento,35.779037,-118.864412,Central/Northeast,Bay Area
+LOCA02294,US,CA,Fresno,36.190671,-119.171893,Central/Northeast,Bay Area
+LOCA02295,US,CA,Bakersfield,36.003512,-118.795578,Central/Northeast,Bay Area
+LOCA02296,US,CA,Stockton,36.139681,-118.974658,Central/Northeast,Bay Area
+LOCA02298,US,CA,Modesto,36.054209,-118.994984,Central/Northeast,Greater LA
+LOCA02299,US,CA,Riverside,35.878529,-118.960987,Central/Northeast,Greater LA
+LOCA02300,US,CA,San Bernardino,36.113331,-118.776006,Central/Northeast,Greater LA
+LOCA02301,US,CA,Fontana,36.081775,-118.843327,Central/Northeast,Greater LA
+LOTN02310,US,TN,Chattanooga,35.796043,-86.023066,West,Tennessee Valley
+LOWA02313,US,WA,Yakima,47.205599,-120.151993,West,Pacific Northwest
+LOWA02314,US,WA,Bellingham,47.635877,-119.704914,West,Pacific Northwest
+LOCA02318,US,CA,Moreno Valley,35.759507,-119.059103,Central/Northeast,Bay Area
+LOCA02319,US,CA,Oxnard,36.180043,-119.177579,Central/Northeast,Bay Area
+LOCA02320,US,CA,Pomona,36.033051,-118.860157,Central/Northeast,Sacramento Valley
+LOTX02336,US,TX,Austin,30.069591,-97.187185,South/Southeast,Texas Gulf
+LOTN02337,US,TN,Clarksville,35.913231,-85.829725,West,Tennessee Valley
+LOTN02339,US,TN,Murfreesboro,36.032536,-86.296862,West,Tennessee Valley
+LOTN02340,US,TN,Franklin,36.156594,-86.278813,West,Tennessee Valley
+LOTN02341,US,TN,Johnson City,36.14744,-86.178512,West,Tennessee Valley
+LOIL02350,US,IL,Champaign,41.274844,-89.079236,Central/Northeast,Missouri Valley
+LOIL02351,US,IL,Bloomington,40.896159,-89.210667,Central/Northeast,Missouri Valley
+LOIL02352,US,IL,Decatur,40.883363,-88.77401,Central/Northeast,Missouri Valley
+LOIL02353,US,IL,Aurora,41.297801,-89.079014,Central/Northeast,Missouri Valley
+LOWA02354,US,WA,Marysville,47.469166,-119.866757,West,Pacific Northwest
+LONY02360,US,NY,Buffalo,43.231717,-75.944173,Central/Northeast,Upstate NY
+LOMO02364,US,MO,St. Charles,38.434915,-92.052427,Central/Northeast,Midwest
+LONC02365,US,NC,Cary,35.617371,-79.298069,West,Carolinas Interior
+LONC02366,US,NC,Wilmington,35.571754,-79.086704,West,Carolinas Interior
+LOIL02376,US,IL,Evanston,41.176518,-89.244206,Central/Northeast,Kansas City
+LOIL02377,US,IL,Schaumburg,41.052921,-89.011416,Central/Northeast,Kansas City
+LOIL02378,US,IL,Bolingbrook,41.085395,-89.261088,Central/Northeast,Chicago Metro
+LOIL02379,US,IL,Springfield,41.04799,-88.963109,Central/Northeast,Kansas City
+LOIL02380,US,IL,Rockford,41.036396,-88.937907,Central/Northeast,Kansas City
+LOIL02381,US,IL,Joliet,41.105881,-88.817007,Central/Northeast,Kansas City
+LOIL02382,US,IL,Naperville,40.861892,-88.80497,Central/Northeast,Kansas City
+LOIL02383,US,IL,Peoria,40.998953,-89.253765,Central/Northeast,Kansas City
+LOIL02384,US,IL,Elgin,40.735131,-89.099457,Central/Northeast,Kansas City
+LOIL02385,US,IL,Waukegan,41.170938,-88.875391,Central/Northeast,Kansas City
+LOTX02390,US,TX,San Antonio,30.173169,-96.989639,South/Southeast,Southeast
+LOCA02391,US,CA,Escondido,35.964119,-119.211528,Central/Northeast,Bay Area
+LOCA02392,US,CA,Hayward,35.896916,-119.039588,Central/Northeast,Bay Area
+LOCA02393,US,CA,Sunnyvale,35.75316,-119.167633,Central/Northeast,Bay Area
+LOIL02394,US,IL,Cicero,41.058935,-88.858602,Central/Northeast,Missouri Valley
+LOIL02395,US,IL,Champaign,41.299009,-88.740132,Central/Northeast,Missouri Valley
+LOIL02396,US,IL,Bloomington,41.085539,-89.047251,Central/Northeast,Missouri Valley
+LONY02397,US,NY,Rochester,43.081706,-75.828609,Central/Northeast,Upstate NY
+LONY02398,US,NY,Yonkers,42.771002,-76.054057,Central/Northeast,Upstate NY
+LONY02399,US,NY,Syracuse,43.203881,-76.0697,Central/Northeast,Upstate NY
+LOWA02401,US,WA,Redmond,47.543123,-119.947338,West,Pacific Northwest
+LOWA02402,US,WA,Lakewood,47.310686,-120.082659,West,Eastern WA
+LOWA02406,US,WA,Spokane,47.400707,-120.284282,West,Pacific Northwest
+LOVA02408,US,VA,Lynchburg,37.214515,-78.800982,South/Southeast,Virginia Coast
+LOVA02410,US,VA,Virginia Beach,37.363842,-78.989153,South/Southeast,Virginia Coast
+LOVA02411,US,VA,Norfolk,37.379235,-78.735592,South/Southeast,Virginia Coast
+LOVA02412,US,VA,Chesapeake,37.355578,-79.042206,South/Southeast,Virginia Coast
+LOVA02413,US,VA,Richmond,37.723638,-78.79484,South/Southeast,Virginia Coast
+LOCA02414,US,CA,Pasadena,35.811661,-118.818414,Central/Northeast,Bay Area
+LOVA02415,US,VA,Newport News,37.474912,-79.010219,South/Southeast,Virginia Coast
+LOVA02416,US,VA,Alexandria,37.280088,-79.251639,South/Southeast,Virginia Coast
+LOVA02417,US,VA,Hampton,37.636764,-79.002123,South/Southeast,Virginia Coast
+LOVA02418,US,VA,Roanoke,37.46211,-78.862295,South/Southeast,Virginia Coast
+LOVA02420,US,VA,Portsmouth,37.659308,-79.204655,South/Southeast,Virginia Coast
+LOVA02421,US,VA,Suffolk,37.566135,-79.218788,South/Southeast,Virginia Coast
+LOVA02424,US,VA,Lynchburg,37.650825,-78.905827,South/Southeast,Virginia Coast
+LOVA02425,US,VA,Virginia Beach,37.773969,-79.258625,South/Southeast,Virginia Coast
+LOVA02426,US,VA,Norfolk,37.234233,-79.130688,South/Southeast,Virginia Coast
+LOGA00473,US,GA,Atlanta,32.357023,-83.151813,South/Southeast,Atlanta Metro
+LOCA00477,US,CA,Sacramento,36.243753,-119.150272,Central/Northeast,Bay Area
+LOCA00478,US,CA,Fresno,35.86317,-118.844361,Central/Northeast,Bay Area
+LOCA00479,US,CA,Bakersfield,35.969844,-118.833974,Central/Northeast,Bay Area
+LOCA00480,US,CA,Stockton,35.73922,-119.007457,Central/Northeast,Bay Area
+LOCA00481,US,CA,Modesto,35.720168,-119.262408,Central/Northeast,Central Valley
+LOCA00482,US,CA,Riverside,36.243862,-119.216453,Central/Northeast,Bay Area
+LOCA00483,US,CA,San Bernardino,36.019452,-119.053343,Central/Northeast,Bay Area
+LOCA00484,US,CA,Fontana,35.908406,-118.7601,Central/Northeast,Bay Area
+LOCA00485,US,CA,Moreno Valley,35.713094,-118.901726,Central/Northeast,Bay Area
+LOCA00486,US,CA,Oxnard,36.278037,-118.963899,Central/Northeast,Central Valley
+LONY00490,US,NY,Albany,43.262093,-76.268645,Central/Northeast,New Jersey
+LONY00491,US,NY,New Rochelle,42.951276,-76.143905,Central/Northeast,New Jersey
+LONY00492,US,NY,White Plains,43.138493,-75.711222,Central/Northeast,New Jersey
+LONY00493,US,NY,Troy,42.853918,-75.907495,Central/Northeast,Long Island
+LONY00494,US,NY,Utica,42.818859,-75.960802,Central/Northeast,Long Island
+LONY00495,US,NY,Schenectady,42.978359,-75.716797,Central/Northeast,Long Island
+LOWA00496,US,WA,Tacoma,47.565116,-120.090296,West,Cascades
+LOWA00497,US,WA,Vancouver,47.268457,-120.209252,West,Cascades
+LOWA00498,US,WA,Bellevue,47.33519,-120.14942,West,Cascades
+LOWA00499,US,WA,Kennewick,47.71037,-119.963266,West,Cascades
+LOKS00502,US,KS,Wichita,38.514035,-98.231139,Central/Northeast,Great Plains
+LOAL00506,US,AL,Birmingham,32.716084,-86.366311,South/Southeast,Alabama
+LOCA00509,US,CA,Pomona,35.740601,-118.875299,Central/Northeast,Central Valley
+LOCA00510,US,CA,Escondido,36.026123,-119.250965,Central/Northeast,Central Valley
+LOCA00511,US,CA,Hayward,35.97498,-119.009182,Central/Northeast,Central Valley
+LOTN00512,US,TN,Bartlett,35.799465,-85.732581,West,Tennessee Valley
+LONC00514,US,NC,High Point,35.709985,-78.898587,West,Carolinas Interior
+LONC00515,US,NC,Concord,35.477377,-79.052941,West,Carolinas Interior
+LONC00516,US,NC,Gastonia,35.590584,-78.972741,West,Carolinas Interior
+LOCA00529,US,CA,Sunnyvale,35.737364,-118.992498,Central/Northeast,Bay Area
+LOCA00530,US,CA,Pasadena,36.183842,-119.024456,Central/Northeast,Bay Area
+LOCA00531,US,CA,Sacramento,35.731174,-118.828233,Central/Northeast,Bay Area
+LONY00532,US,NY,Mount Vernon,42.820818,-76.144827,Central/Northeast,New Jersey
+LONY00533,US,NY,Binghamton,42.798824,-76.101871,Central/Northeast,New Jersey
+LOTN00539,US,TN,Hendersonville,36.154051,-85.988368,West,Nashville Metro
+LOCA00542,US,CA,Fresno,35.822929,-118.773302,Central/Northeast,Central Valley
+LOCA00543,US,CA,Bakersfield,36.227749,-118.777653,West,Central Valley
+LOCA00544,US,CA,Stockton,35.843278,-119.029256,West,Central Valley
+LOCA00545,US,CA,Modesto,36.290994,-118.836793,West,Central Valley
+LOCA00546,US,CA,Riverside,35.7163,-119.260877,West,Central Valley
+LOTN00547,US,TN,Kingsport,35.978359,-85.754468,West,Tennessee Valley
+LOCA00552,US,CA,San Bernardino,36.023221,-119.001312,West,Central Valley
+LOCA00555,US,CA,Fontana,35.763284,-118.905932,Central/Northeast,Central Valley
+LOWA00556,US,WA,Renton,47.693262,-120.071748,West,Cascades
+LOWA00557,US,WA,Kirkland,47.665367,-119.721314,West,Cascades
+LOWA00558,US,WA,Bellevue,47.32226,-119.986002,West,Cascades
+LOWA00559,US,WA,Everett,47.372283,-119.824287,West,Cascades
+LOFL00560,US,FL,Jacksonville,27.046556,-81.919251,Central/Northeast,Florida Interior
+LOFL00561,US,FL,Tampa,27.178748,-82.062418,Central/Northeast,Florida Interior
+LOCA00562,US,CA,Moreno Valley,36.249054,-118.980183,West,Central Valley
+LOCA00563,US,CA,Oxnard,35.794773,-118.882461,West,Central Valley
+LOCA00564,US,CA,Pomona,36.175957,-119.109943,West,Central Valley
+LONY00565,US,NY,Niagara Falls,43.214308,-75.756314,Central/Northeast,New Jersey
+LOWA00567,US,WA,Yakima,47.366143,-119.709887,West,Oregon
+LOWA00568,US,WA,Bellingham,47.284427,-120.178791,West,Oregon
+LONY00569,US,NY,Buffalo,42.810535,-75.763606,Central/Northeast,New Jersey
+LOCA00571,US,CA,Escondido,36.092576,-119.208737,Central/Northeast,Central Valley
+LOIL00572,US,IL,Decatur,40.964194,-88.930821,Central/Northeast,Chicago Metro
+LOCA00573,US,CA,Hayward,35.750078,-118.77055,Central/Northeast,Greater LA
+LOCA00574,US,CA,Sunnyvale,36.182162,-118.996876,Central/Northeast,Greater LA
+LOCA00578,US,CA,Pasadena,36.280276,-119.049343,West,Central Valley
+LOCA00579,US,CA,Sacramento,36.290466,-118.899248,Central/Northeast,Central Valley
+LOCA00580,US,CA,Fresno,36.080803,-119.200427,Central/Northeast,Central Valley
+LOFL00582,US,FL,Orlando,27.229157,-82.043506,South/Southeast,Florida Interior
+LOFL00583,US,FL,Fort Lauderdale,26.79734,-82.292435,South/Southeast,Florida Interior
+LOFL00584,US,FL,Tallahassee,27.035853,-81.98356,South/Southeast,Florida Interior
+LOFL00585,US,FL,Hialeah,27.131612,-81.765845,South/Southeast,Florida Interior
+LOFL00586,US,FL,Port St. Lucie,26.747644,-81.861102,South/Southeast,Florida Interior
+LOFL00587,US,FL,Cape Coral,26.812447,-81.785094,South/Southeast,Florida Interior
+LOFL00588,US,FL,Pembroke Pines,27.191438,-81.975524,South/Southeast,Florida Interior
+LOFL00589,US,FL,Hollywood,27.126146,-82.11139,South/Southeast,Florida Interior
+LOFL00590,US,FL,Miramar,26.982701,-81.807018,South/Southeast,Florida Interior
+LOFL00591,US,FL,Gainesville,26.975559,-82.085321,South/Southeast,Florida Interior
+LONY00592,US,NY,Rochester,42.996527,-75.80305,Central/Northeast,New Jersey
+LOIL00594,US,IL,Aurora,40.901125,-89.195743,Central/Northeast,Chicago Metro
+LOFL00602,US,FL,Jacksonville,27.127208,-81.804413,South/Southeast,Florida Interior
+LOWA00603,US,WA,Marysville,47.260382,-120.156076,West,Cascades
+LOWA00604,US,WA,Redmond,47.285183,-120.091235,West,Cascades
+LOWA00605,US,WA,Lakewood,47.470211,-119.850704,West,Cascades
+LOWA00606,US,WA,Spokane,47.590689,-119.927443,West,Cascades
+LOWA00607,US,WA,Tacoma,47.411425,-119.795131,West,Cascades
+LOWA00608,US,WA,Vancouver,47.482772,-119.712537,West,Cascades
+LOWA00609,US,WA,Bellevue,47.580485,-120.224241,West,Cascades
+LOWA00610,US,WA,Kennewick,47.605707,-120.104938,West,Cascades
+LOWA00611,US,WA,Renton,47.611796,-120.258215,West,Cascades
+LOWA00612,US,WA,Kirkland,47.304929,-119.786558,West,Cascades
+LOWA00613,US,WA,Bellevue,47.336308,-119.797775,West,Cascades
+LOWA00614,US,WA,Everett,47.367566,-119.914271,West,Cascades
+LOWA00615,US,WA,Yakima,47.61649,-119.992407,West,Cascades
+LOWA00616,US,WA,Bellingham,47.383186,-120.172413,West,Cascades
+LOWA00617,US,WA,Marysville,47.219914,-120.117632,West,Cascades
+LOCA00618,US,CA,Bakersfield,36.091898,-118.737017,Central/Northeast,SoCal Coast
+LOIL00619,US,IL,Evanston,41.222723,-88.840361,Central/Northeast,Chicago Metro
+LOCA00625,US,CA,Stockton,36.173068,-118.901009,Central/Northeast,Central Valley
+LOCA00626,US,CA,Modesto,35.856172,-118.755683,Central/Northeast,Central Valley
+LOCA00627,US,CA,Riverside,36.102439,-118.963736,Central/Northeast,Central Valley
+LOCA00628,US,CA,San Bernardino,35.766594,-119.031767,Central/Northeast,Central Valley
+LOCA00629,US,CA,Fontana,35.976215,-118.781262,Central/Northeast,Central Valley
+LOCA00631,US,CA,Moreno Valley,36.027989,-119.07176,Central/Northeast,Central Valley
+LOIL00632,US,IL,Schaumburg,41.28608,-89.233568,Central/Northeast,Chicago Metro
+LOIL00633,US,IL,Bolingbrook,40.953529,-89.274785,Central/Northeast,Chicago Metro
+LOWA00634,US,WA,Redmond,47.643942,-119.749154,West,Cascades
+LOWA00636,US,WA,Lakewood,47.368022,-119.784995,West,Cascades
+LOWA00637,US,WA,Spokane,47.375331,-119.753538,West,Oregon
+LOCA00638,US,CA,Oxnard,36.152377,-118.817056,Central/Northeast,Central Valley
+LOCA00639,US,CA,Pomona,35.710804,-118.722314,Central/Northeast,Central Valley
+LOCA00640,US,CA,Escondido,36.136003,-119.117149,Central/Northeast,Central Valley
+LOCA00641,US,CA,Hayward,36.197637,-119.131087,Central/Northeast,Bay Area
+LOCA00642,US,CA,Sunnyvale,36.223652,-119.232452,Central/Northeast,Central Valley
+LOCA00643,US,CA,Pasadena,36.122212,-118.975581,Central/Northeast,Central Valley
+LOCA00645,US,CA,Sacramento,35.757921,-119.154864,Central/Northeast,Bay Area
+LOCA00646,US,CA,Fresno,35.707442,-119.018739,Central/Northeast,Bay Area
+LOCA00647,US,CA,Bakersfield,35.880759,-118.940986,Central/Northeast,Bay Area
+LOCA00648,US,CA,Stockton,35.878343,-119.120049,Central/Northeast,Bay Area
+LOCA00670,US,CA,Modesto,36.145916,-119.271114,South/Southeast,Central Valley
+LOLA00671,US,LA,New Orleans,30.741737,-91.288642,South/Southeast,Louisiana
+LOLA00672,US,LA,Baton Rouge,30.600683,-91.444067,South/Southeast,Louisiana
+LOLA00673,US,LA,Shreveport,30.735381,-91.688802,South/Southeast,Louisiana
+LOCA00674,US,CA,Riverside,35.747381,-119.156294,Central/Northeast,Greater LA
+LOCA00675,US,CA,San Bernardino,36.176747,-119.279198,Central/Northeast,Sacramento Valley
+LOCA00676,US,CA,Fontana,36.049684,-118.702737,Central/Northeast,Central Valley
+LOCA00677,US,CA,Moreno Valley,36.213418,-118.987133,Central/Northeast,Central Valley
+LOCA00678,US,CA,Oxnard,35.738185,-118.801176,Central/Northeast,Central Valley
+LOCA00679,US,CA,Pomona,36.059387,-119.23104,Central/Northeast,Central Valley
+LOWA00680,US,WA,Tacoma,47.256314,-119.754224,West,Oregon
+LOWA00681,US,WA,Vancouver,47.60152,-119.802428,West,Oregon
+LOWA00682,US,WA,Bellevue,47.727387,-119.956937,West,Oregon
+LOWA00683,US,WA,Kennewick,47.510468,-120.041744,West,Oregon
+LOWA00687,US,WA,Renton,47.390168,-120.039242,West,Cascades
+LOWA00688,US,WA,Kirkland,47.664328,-119.938846,West,Pacific Northwest
+LOWA00689,US,WA,Bellevue,47.735514,-120.033972,West,Pacific Northwest
+LOWA00690,US,WA,Everett,47.564254,-119.921215,West,Pacific Northwest
+LOWA00691,US,WA,Yakima,47.555018,-119.87842,West,Pacific Northwest
+LOWA00692,US,WA,Bellingham,47.34246,-119.992582,West,Pacific Northwest
+LOWA00693,US,WA,Marysville,47.262535,-120.069293,West,Pacific Northwest
+LOWA00694,US,WA,Redmond,47.4926,-119.908665,West,Pacific Northwest
+LOWA00695,US,WA,Lakewood,47.770319,-119.939609,West,Pacific Northwest
+LOWA00696,US,WA,Spokane,47.646156,-119.99624,West,Pacific Northwest
+LOIL00698,US,IL,Springfield,41.080462,-89.257441,Central/Northeast,Chicago Metro
+LOCA00700,US,CA,Escondido,35.852635,-119.082888,Central/Northeast,Sacramento Valley
+LOTX00701,US,TX,Dallas,29.983496,-97.272611,South/Southeast,Texas Gulf
+LOWA00704,US,WA,Tacoma,47.284014,-120.133911,West,Puget Sound
+LOWA00726,US,WA,Vancouver,47.78292,-120.101192,West,Pacific Northwest
+LOKS00727,US,KS,Overland Park,38.489225,-98.182341,Central/Northeast,Great Plains
+LOKS00728,US,KS,Kansas City,38.566468,-98.13159,Central/Northeast,Great Plains
+LOKS00729,US,KS,Topeka,38.324196,-97.990056,Central/Northeast,Great Plains
+LOTN00731,US,TN,Jackson,35.703303,-86.295402,West,Nashville Metro
+LOTN00732,US,TN,Nashville,35.831441,-86.277967,West,Nashville Metro
+LOCA00736,US,CA,Hayward,35.764815,-119.096684,Central/Northeast,Central Valley
+LONY00737,US,NY,Yonkers,43.181551,-75.956771,Central/Northeast,New Jersey
+LOFL00740,US,FL,Tampa,27.007601,-82.123907,Central/Northeast,Florida Interior
+LOWA00742,US,WA,Bellevue,47.759052,-120.061791,West,Oregon
+LOWA00743,US,WA,Kennewick,47.252256,-119.92976,West,Oregon
+LOWA00744,US,WA,Renton,47.268303,-120.092866,West,Cascades
+LOWA00745,US,WA,Kirkland,47.504447,-119.775466,West,Cascades
+LOWA00746,US,WA,Bellevue,47.496128,-119.878645,West,Cascades
+LOWA00747,US,WA,Everett,47.79569,-120.221107,West,Pacific Northwest
+LOWA00748,US,WA,Yakima,47.364839,-120.063254,West,Pacific Northwest
+LOWA00749,US,WA,Bellingham,47.453097,-120.053387,West,Pacific Northwest
+LOWA00750,US,WA,Marysville,47.744567,-119.87158,West,Pacific Northwest
+LOWA00751,US,WA,Redmond,47.564743,-120.114376,West,Pacific Northwest
+LOWA00752,US,WA,Lakewood,47.694274,-119.726964,West,Pacific Northwest
+LOWA00753,US,WA,Spokane,47.692719,-120.299061,West,Pacific Northwest
+LOWA00754,US,WA,Tacoma,47.581841,-120.269319,West,Pacific Northwest
+LOWA00755,US,WA,Vancouver,47.354564,-120.264285,West,Pacific Northwest
+LOWA00756,US,WA,Bellevue,47.562277,-119.888046,West,Pacific Northwest
+LOWA00757,US,WA,Kennewick,47.268693,-120.069697,West,Pacific Northwest
+LOWA00758,US,WA,Renton,47.473742,-120.078568,West,Pacific Northwest
+LONY00759,US,NY,Syracuse,42.772615,-76.048631,Central/Northeast,New Jersey
+LOCA00760,US,CA,Sunnyvale,36.150707,-119.257395,Central/Northeast,Sacramento Valley
+LOCA00761,US,CA,Pasadena,35.748108,-119.087137,Central/Northeast,Sacramento Valley
+LOCA00762,US,CA,Sacramento,36.265035,-118.898856,Central/Northeast,Central Valley
+LOCA00764,US,CA,Fresno,36.107202,-119.082848,Central/Northeast,Central Valley
+LOWA00765,US,WA,Kirkland,47.556196,-120.293921,West,Cascades
+LOIL00766,US,IL,Rockford,41.081658,-88.752028,Central/Northeast,Kansas City
+LOTN00769,US,TN,Memphis,36.067544,-85.775781,West,Memphis
+LOTN00770,US,TN,Knoxville,36.134384,-86.227665,West,Memphis
+LOTN00771,US,TN,Chattanooga,36.241472,-86.260134,West,Memphis
+LOTN00772,US,TN,Clarksville,36.02038,-86.214718,West,Memphis
+LOTN00773,US,TN,Murfreesboro,35.707024,-86.046779,West,Memphis
+LOTN00774,US,TN,Franklin,35.877024,-86.0084,West,Memphis
+LOTN00775,US,TN,Johnson City,36.04632,-86.273757,West,Memphis
+LOTN00776,US,TN,Bartlett,35.773802,-85.964815,West,Memphis
+LOTN00777,US,TN,Hendersonville,35.9059,-85.862496,West,Memphis
+LOTN00778,US,TN,Kingsport,36.091375,-85.792637,West,Memphis
+LOTN00779,US,TN,Jackson,36.115496,-86.042041,West,Memphis
+LOTN00780,US,TN,Nashville,36.10378,-86.134771,West,Memphis
+LOTN00781,US,TN,Memphis,35.883788,-85.826609,West,Memphis
+LOTN00782,US,TN,Knoxville,35.967852,-85.820972,West,Memphis
+LOKS00783,US,KS,Olathe,38.693453,-97.785463,Central/Northeast,Great Plains
+LOFL00784,US,FL,Orlando,27.249981,-82.041409,South/Southeast,Florida Interior
+LOFL00785,US,FL,Fort Lauderdale,26.89132,-81.950681,South/Southeast,Florida Interior
+LOFL00786,US,FL,Tallahassee,26.922703,-81.939355,South/Southeast,Florida Interior
+LOFL00787,US,FL,Hialeah,27.123352,-81.886957,South/Southeast,Florida Interior
+LOWA00790,US,WA,Bellevue,47.424732,-120.199884,West,Cascades
+LOWA00791,US,WA,Everett,47.458318,-120.214444,West,Cascades
+LOWA00792,US,WA,Yakima,47.734058,-120.092474,West,Cascades
+LOWA00793,US,WA,Bellingham,47.292676,-120.284731,West,Cascades
+LOWA00794,US,WA,Marysville,47.587493,-119.917859,West,Cascades
+LOWA00795,US,WA,Redmond,47.404362,-120.256973,West,Cascades
+LOWA00796,US,WA,Lakewood,47.445777,-120.11327,West,Cascades
+LOWA00797,US,WA,Spokane,47.606272,-119.936532,West,Cascades
+LOWA00798,US,WA,Tacoma,47.418756,-120.169264,West,Cascades
+LOWA00799,US,WA,Vancouver,47.792822,-120.027599,West,Cascades
+LOWA00800,US,WA,Bellevue,47.612965,-120.215668,West,Cascades
+LOWA00801,US,WA,Kennewick,47.491354,-120.283478,West,Cascades
+LOWA00802,US,WA,Renton,47.503273,-119.72159,West,Cascades
+LOWA00803,US,WA,Kirkland,47.430524,-120.276602,West,Cascades
+LOWA00804,US,WA,Bellevue,47.218573,-120.067208,West,Cascades
+LOWA00805,US,WA,Everett,47.296015,-120.285989,West,Cascades
+LOWA00806,US,WA,Yakima,47.653728,-120.024886,West,Cascades
+LOWA00807,US,WA,Bellingham,47.373547,-119.75995,West,Cascades
+LOWA00808,US,WA,Marysville,47.269683,-119.726449,West,Cascades
+LOWA00809,US,WA,Redmond,47.38838,-119.766958,West,Cascades
+LOWA00810,US,WA,Lakewood,47.561766,-119.803976,West,Cascades
+LOWA00811,US,WA,Spokane,47.790408,-120.126957,West,Cascades
+LOWA00812,US,WA,Tacoma,47.776681,-120.066311,West,Cascades
+LOWA00813,US,WA,Vancouver,47.431307,-120.095768,West,Cascades
+LOWA00814,US,WA,Bellevue,47.524845,-120.207513,West,Cascades
+LOWA00815,US,WA,Kennewick,47.532227,-119.974977,West,Cascades
+LOWA00816,US,WA,Renton,47.657141,-119.79981,West,Cascades
+LOWA00817,US,WA,Kirkland,47.464265,-120.1186,West,Cascades
+LOWA00818,US,WA,Bellevue,47.355601,-120.183226,West,Cascades
+LOWA00819,US,WA,Everett,47.234589,-120.094531,West,Cascades
+LOWA00820,US,WA,Yakima,47.362149,-119.72015,West,Cascades
+LOWA00821,US,WA,Bellingham,47.534625,-120.091634,West,Cascades
+LOWA00822,US,WA,Marysville,47.548281,-120.216482,West,Cascades
+LOWA00823,US,WA,Redmond,47.466426,-119.924259,West,Cascades
+LOWA00824,US,WA,Lakewood,47.493339,-120.058933,West,Cascades
+LOWA00825,US,WA,Spokane,47.796309,-119.771811,West,Cascades
+LOWA00826,US,WA,Tacoma,47.574044,-119.958374,West,Cascades
+LOWA00827,US,WA,Vancouver,47.572396,-120.179213,West,Cascades
+LOWA00828,US,WA,Bellevue,47.437083,-120.276324,West,Cascades
+LOWA00829,US,WA,Kennewick,47.485328,-119.974185,West,Cascades
+LOWA00830,US,WA,Renton,47.33665,-119.721583,West,Cascades
+LOWA00831,US,WA,Kirkland,47.745673,-119.866714,West,Cascades
+LOWA00832,US,WA,Bellevue,47.520032,-119.778019,West,Cascades
+LOWA00833,US,WA,Everett,47.278391,-119.825694,West,Cascades
+LOWA00834,US,WA,Yakima,47.274892,-119.823474,West,Cascades
+LOWA00835,US,WA,Bellingham,47.365461,-119.773746,West,Cascades
+LOWA00836,US,WA,Marysville,47.766425,-120.210722,West,Cascades
+LOWA00837,US,WA,Redmond,47.477605,-119.711408,West,Cascades
+LOWA00838,US,WA,Lakewood,47.490044,-119.781871,West,Cascades
+LOWA00839,US,WA,Spokane,47.553239,-120.074802,West,Cascades
+LOWA00840,US,WA,Tacoma,47.37147,-120.178066,West,Cascades
+LOWA00841,US,WA,Vancouver,47.657079,-120.068076,West,Cascades
+LOWA00842,US,WA,Bellevue,47.506765,-120.004605,West,Cascades
+LOWA00843,US,WA,Kennewick,47.546367,-119.780654,West,Cascades
+LOWA00844,US,WA,Renton,47.788444,-120.055449,West,Cascades
+LOWA00845,US,WA,Kirkland,47.696511,-119.841283,West,Cascades
+LOWA00846,US,WA,Bellevue,47.544117,-119.726372,West,Cascades
+LOWA00847,US,WA,Everett,47.320285,-120.234441,West,Cascades
+LOWA00848,US,WA,Yakima,47.712377,-120.03651,West,Cascades
+LOWA00849,US,WA,Bellingham,47.708181,-119.764146,West,Cascades
+LOWA00850,US,WA,Marysville,47.237475,-119.769921,West,Cascades
+LOWA00851,US,WA,Redmond,47.468991,-119.993741,West,Cascades
+LOWA00852,US,WA,Lakewood,47.575956,-119.74417,West,Cascades
+LOWA00853,US,WA,Spokane,47.21147,-120.013894,West,Cascades
+LOWA00854,US,WA,Tacoma,47.612633,-119.866376,West,Cascades
+LOWA00855,US,WA,Vancouver,47.615519,-120.219339,West,Cascades
+LOWA00856,US,WA,Bellevue,47.379637,-120.084771,West,Cascades
+LOWA00857,US,WA,Kennewick,47.682662,-120.132744,West,Cascades
+LOWA00858,US,WA,Renton,47.326423,-119.725531,West,Cascades
+LOWA00859,US,WA,Kirkland,47.205318,-119.701307,West,Cascades
+LOWA00860,US,WA,Bellevue,47.606093,-119.802918,West,Cascades
+LOWA00861,US,WA,Everett,47.376772,-120.291411,West,Cascades
+LOWA00862,US,WA,Yakima,47.642722,-119.799513,West,Cascades
+LOWA00863,US,WA,Bellingham,47.644286,-120.21429,West,Cascades
+LOWA00864,US,WA,Marysville,47.652057,-119.838646,West,Cascades
+LOWA00865,US,WA,Redmond,47.595124,-119.84033,West,Cascades
+LOWA00866,US,WA,Lakewood,47.707553,-119.931838,West,Cascades
+LOWA00867,US,WA,Spokane,47.253163,-120.007423,West,Cascades
+LOWA00868,US,WA,Tacoma,47.24659,-120.055474,West,Cascades
+LOWA00869,US,WA,Vancouver,47.444264,-120.260394,West,Cascades
+LOWA00870,US,WA,Bellevue,47.409292,-120.233401,West,Cascades
+LOWA00871,US,WA,Kennewick,47.684941,-119.731387,West,Cascades
+LOWA00872,US,WA,Renton,47.24339,-119.726931,West,Cascades
+LOWA00873,US,WA,Kirkland,47.513546,-120.120261,West,Cascades
+LOWA00874,US,WA,Bellevue,47.246117,-119.999625,West,Cascades
+LOWA00875,US,WA,Everett,47.676709,-119.875748,West,Cascades
+LOWA00876,US,WA,Yakima,47.230136,-120.256259,West,Cascades
+LOCA00877,US,CA,Bakersfield,35.941724,-119.122826,Central/Northeast,Central Valley
+LOMT00878,US,MT,Billings,46.839431,-109.131397,Central/Northeast,Great Plains
+LONC00879,US,NC,Asheville,35.68209,-78.742463,West,Western NC
+LONC00880,US,NC,Greenville,35.443062,-78.756333,West,Western NC
+LONC00881,US,NC,Charlotte,35.392897,-79.014138,West,Western NC
+LONC00882,US,NC,Raleigh,35.335617,-78.915714,West,Western NC
+LONC00883,US,NC,Greensboro,35.787389,-78.937904,West,Western NC
+LONC00884,US,NC,Durham,35.414688,-78.91131,West,Western NC
+LONC00885,US,NC,Winston-Salem,35.273752,-78.766805,West,Western NC
+LONC00886,US,NC,Fayetteville,35.50185,-79.03039,West,Western NC
+LONC00887,US,NC,Cary,35.551519,-78.92513,West,Western NC
+LONC00888,US,NC,Wilmington,35.243065,-78.89043,West,Western NC
+LOTN00890,US,TN,Chattanooga,35.845159,-85.871628,West,Tennessee Valley
+LONY00892,US,NY,Albany,43.193521,-75.817625,Central/Northeast,New Jersey
+LOIL00893,US,IL,Joliet,41.031501,-88.987898,Central/Northeast,Chicago Metro
+LOCA00895,US,CA,Stockton,35.785726,-118.834792,Central/Northeast,Central Valley
+LOIL00896,US,IL,Naperville,40.862846,-89.001983,Central/Northeast,Chicago Metro
+LOIL00897,US,IL,Peoria,40.870564,-89.219703,Central/Northeast,Chicago Metro
+LOIL00899,US,IL,Elgin,41.077735,-89.267401,Central/Northeast,Chicago Metro
+LOIL00907,US,IL,Waukegan,41.149187,-89.109448,Central/Northeast,Chicago Metro
+LOTN00909,US,TN,Clarksville,35.700081,-85.993323,West,Tennessee Valley
+LOCA00912,US,CA,Modesto,35.728111,-119.134298,Central/Northeast,Central Valley
+LOCA00913,US,CA,Riverside,36.124186,-119.262386,Central/Northeast,Greater LA
+LOWA00926,US,WA,Bellingham,47.703603,-120.297708,West,Oregon
+LOTN00927,US,TN,Murfreesboro,35.848094,-85.855458,West,Memphis
+LOTN00928,US,TN,Franklin,35.889762,-86.238865,West,Memphis
+LOCA00929,US,CA,San Bernardino,35.91614,-119.137764,Central/Northeast,SoCal Coast
+LOMT00930,US,MT,Missoula,47.205627,-109.111991,Central/Northeast,Great Plains
+LOMT00931,US,MT,Great Falls,47.173359,-108.764877,Central/Northeast,Great Plains
+LOFL00932,US,FL,Port St. Lucie,26.96029,-81.754034,Central/Northeast,Florida Interior
+LOTN00933,US,TN,Johnson City,35.926391,-85.721553,West,Nashville Metro
+LOTN00934,US,TN,Bartlett,35.753574,-85.887788,West,Nashville Metro
+LOIL00962,US,IL,Cicero,40.996288,-89.067411,Central/Northeast,Kansas City
+LOCA00964,US,CA,Fontana,36.079627,-118.877686,Central/Northeast,Greater LA
+LOCA00965,US,CA,Moreno Valley,35.702618,-119.199828,Central/Northeast,Greater LA
+LOIL00978,US,IL,Champaign,41.127828,-88.900169,Central/Northeast,Chicago Metro
+LOIL00979,US,IL,Bloomington,41.279629,-88.843377,Central/Northeast,Midwest Interior
+LOTN00980,US,TN,Hendersonville,36.270464,-85.878476,West,Memphis
+LOMT00981,US,MT,Bozeman,46.878831,-109.236781,Central/Northeast,Great Plains
+LOKS00983,US,KS,Lawrence,38.669094,-97.91351,West,Great Plains
+LONY00984,US,NY,New Rochelle,42.728912,-76.08397,Central/Northeast,New Jersey
+LONY00985,US,NY,White Plains,43.27408,-75.999759,Central/Northeast,New Jersey
+LONY00986,US,NY,Troy,42.959637,-76.02538,Central/Northeast,New Jersey
+LOWA00989,US,WA,Marysville,47.32533,-120.078776,West,Pacific Northwest
+LOWA00991,US,WA,Redmond,47.421888,-120.268587,West,Oregon
+LOWA00992,US,WA,Lakewood,47.660541,-120.050097,West,Oregon
+LOWA00993,US,WA,Spokane,47.693308,-119.789791,West,Oregon
+LOWA00994,US,WA,Tacoma,47.327196,-119.905588,West,Oregon
+LOWA00995,US,WA,Vancouver,47.483369,-119.771906,West,Oregon
+LOWA00996,US,WA,Bellevue,47.329444,-119.893312,West,Oregon
+LOWA00997,US,WA,Kennewick,47.564651,-120.122819,West,Oregon
+LOWA00998,US,WA,Renton,47.281961,-119.909016,West,Pacific Northwest
+LOWA00999,US,WA,Kirkland,47.643158,-120.110624,West,Oregon
+LOWA01000,US,WA,Bellevue,47.5869,-120.062921,West,Oregon
+LOWA01001,US,WA,Everett,47.627924,-120.180471,West,Oregon
+LOWA01002,US,WA,Yakima,47.734129,-120.127554,West,Oregon
+LOWA01003,US,WA,Bellingham,47.420672,-120.265145,West,Pacific Northwest
+LOWA01004,US,WA,Marysville,47.266907,-119.990483,West,Pacific Northwest
+LOWA01009,US,WA,Redmond,47.360556,-119.798712,West,Cascades
+LOWA01010,US,WA,Lakewood,47.208816,-120.072544,West,Cascades
+LOWA01011,US,WA,Spokane,47.402407,-120.288403,West,Cascades
+LOWA01012,US,WA,Tacoma,47.274621,-120.051814,West,Cascades
+LOWA01013,US,WA,Vancouver,47.495719,-120.057426,West,Cascades
+LOWA01014,US,WA,Bellevue,47.518563,-119.942921,West,Cascades
+LOWA01015,US,WA,Kennewick,47.205954,-120.021543,West,Cascades
+LOWA01016,US,WA,Renton,47.7781,-119.988581,West,Cascades
+LOWA01017,US,WA,Kirkland,47.606525,-120.112882,West,Cascades
+LOWA01018,US,WA,Bellevue,47.664395,-119.836247,West,Cascades
+LOCA01022,US,CA,Oxnard,36.012778,-118.714392,Central/Northeast,Central Valley
+LOCA01023,US,CA,Pomona,35.77533,-119.289831,Central/Northeast,Greater LA
+LOCA01025,US,CA,Escondido,36.162095,-118.815707,Central/Northeast,Greater LA
+LOCA01026,US,CA,Hayward,35.772124,-119.14065,Central/Northeast,Greater LA
+LOWA01027,US,WA,Everett,47.210531,-120.124015,West,Cascades
+LOWA01028,US,WA,Yakima,47.663885,-119.989224,West,Cascades
+LOWA01029,US,WA,Bellingham,47.408857,-120.076956,West,Cascades
+LOWA01030,US,WA,Marysville,47.200812,-120.12012,West,Cascades
+LOWA01031,US,WA,Redmond,47.587875,-119.715483,West,Cascades
+LOWA01032,US,WA,Lakewood,47.708236,-120.285843,West,Cascades
+LOWA01033,US,WA,Spokane,47.739136,-119.830081,West,Cascades
+LOIL01038,US,IL,Decatur,41.168226,-89.025203,Central/Northeast,Missouri Valley
+LOTN01039,US,TN,Kingsport,35.938803,-86.118251,West,Memphis
+LOTN01040,US,TN,Jackson,35.739417,-86.163059,West,Memphis
+LOTN01041,US,TN,Nashville,35.847962,-86.009554,West,Memphis
+LOTN01044,US,TN,Memphis,36.148467,-86.015714,West,Memphis
+LOTN01045,US,TN,Knoxville,35.734707,-85.725326,West,Memphis
+LOCA01046,US,CA,Sunnyvale,36.265635,-118.828886,Central/Northeast,Sacramento Valley
+LOLA01048,US,LA,Metairie,30.794797,-91.473311,South/Southeast,Louisiana
+LOCA01049,US,CA,Pasadena,36.277661,-119.254637,West,Central Valley
+LOWA01050,US,WA,Tacoma,47.419408,-120.164771,West,Cascades
+LOWA01051,US,WA,Vancouver,47.3175,-120.215518,West,Cascades
+LOWA01052,US,WA,Bellevue,47.573448,-119.831207,West,Cascades
+LOWA01053,US,WA,Kennewick,47.546979,-120.211822,West,Cascades
+LOWA01054,US,WA,Renton,47.686674,-119.918427,West,Cascades
+LOWA01055,US,WA,Kirkland,47.432899,-119.895522,West,Cascades
+LOWA01056,US,WA,Bellevue,47.355943,-120.092885,West,Cascades
+LOWA01057,US,WA,Everett,47.750492,-120.125697,West,Cascades
+LOWA01058,US,WA,Yakima,47.481993,-119.765915,West,Cascades
+LOWA01059,US,WA,Bellingham,47.624633,-120.262678,West,Cascades
+LOWA01060,US,WA,Marysville,47.288382,-120.295295,West,Cascades
+LOWA01061,US,WA,Redmond,47.578553,-120.031396,West,Cascades
+LOCA01062,US,CA,Sacramento,35.780565,-118.72524,West,Central Valley
+LOWA01063,US,WA,Lakewood,47.517796,-120.154864,West,Oregon
+LOWA01064,US,WA,Spokane,47.500362,-119.892228,West,Oregon
+LOLA01065,US,LA,Lafayette,30.245744,-91.635178,South/Southeast,Louisiana
+LOLA01066,US,LA,Lake Charles,30.684179,-91.524201,South/Southeast,Louisiana
+LOLA01067,US,LA,Kenner,30.527946,-91.54031,South/Southeast,Louisiana
+LOLA01068,US,LA,Bossier City,30.22634,-91.70055,South/Southeast,Louisiana
+LOTN01083,US,TN,Chattanooga,35.967325,-86.174489,West,Memphis
+LOWA01085,US,WA,Tacoma,47.229987,-119.79381,West,Cascades
+LOWA01086,US,WA,Vancouver,47.788716,-119.824114,West,Pacific Northwest
+LOWA01087,US,WA,Bellevue,47.712271,-120.154814,West,Pacific Northwest
+LOWA01088,US,WA,Kennewick,47.776376,-120.181845,West,Pacific Northwest
+LOWA01089,US,WA,Renton,47.770858,-119.703108,West,Pacific Northwest
+LOWA01090,US,WA,Kirkland,47.627034,-119.711314,West,Pacific Northwest
+LONY01092,US,NY,Utica,43.041724,-76.144275,Central/Northeast,New Jersey
+LOCA01093,US,CA,Fresno,35.962198,-118.943863,Central/Northeast,Central Valley
+LOTN01097,US,TN,Clarksville,35.743849,-85.926594,West,Nashville Metro
+LOCA01099,US,CA,Bakersfield,36.288707,-119.185935,Central/Northeast,Central Valley
+LOCA01100,US,CA,Stockton,36.175557,-118.755261,Central/Northeast,Central Valley
+LOCA01101,US,CA,Modesto,36.266221,-118.723919,Central/Northeast,Central Valley
+LOCA01102,US,CA,Riverside,36.012876,-118.713615,Central/Northeast,Central Valley
+LOCA01104,US,CA,San Bernardino,36.154386,-119.202997,Central/Northeast,SoCal Coast
+LOCA01105,US,CA,Fontana,35.98614,-118.869001,Central/Northeast,SoCal Coast
+LOCA01106,US,CA,Moreno Valley,35.848404,-118.915631,Central/Northeast,SoCal Coast
+LOCA01107,US,CA,Oxnard,36.09996,-119.20238,Central/Northeast,SoCal Coast
+LOCA01108,US,CA,Pomona,36.039051,-118.837024,Central/Northeast,SoCal Coast
+LOCA01109,US,CA,Escondido,35.999337,-119.292738,Central/Northeast,SoCal Coast
+LOCA01110,US,CA,Hayward,35.705423,-119.085782,Central/Northeast,SoCal Coast
+LOCA01111,US,CA,Sunnyvale,36.255716,-119.162794,Central/Northeast,Greater LA
+LOCA01119,US,CA,Pasadena,36.080618,-119.166754,Central/Northeast,Greater LA
+LOCA01120,US,CA,Sacramento,35.893002,-118.791175,Central/Northeast,Greater LA
+LOCA01122,US,CA,Fresno,36.137317,-119.24276,Central/Northeast,Greater LA
+LOCA01123,US,CA,Bakersfield,35.957221,-119.282498,Central/Northeast,Greater LA
+LOCA01124,US,CA,Stockton,35.988534,-118.90254,Central/Northeast,Central Valley
+LOWA01125,US,WA,Bellevue,47.271102,-120.126669,West,Oregon
+LOWA01126,US,WA,Everett,47.438702,-119.748281,West,Oregon
+LOWA01127,US,WA,Yakima,47.795953,-120.273053,West,Oregon
+LOWA01128,US,WA,Bellingham,47.656605,-120.076966,West,Oregon
+LOCA01129,US,CA,Modesto,35.935475,-118.847441,Central/Northeast,Bay Area
+LOCA01131,US,CA,Riverside,36.251056,-118.729443,Central/Northeast,Central Valley
+LOIL01135,US,IL,Aurora,41.046274,-89.085727,Central/Northeast,Chicago Metro
+LOIL01136,US,IL,Evanston,41.172529,-89.149399,Central/Northeast,Chicago Metro
+LOWA01137,US,WA,Marysville,47.538444,-120.084853,West,Pacific Northwest
+LOWA01138,US,WA,Redmond,47.593979,-120.155761,West,Oregon
+LOWA01139,US,WA,Lakewood,47.314956,-119.749057,West,Oregon
+LOWA01140,US,WA,Spokane,47.261082,-119.996425,West,Oregon
+LOWA01141,US,WA,Tacoma,47.332512,-120.276642,West,Oregon
+LOWA01142,US,WA,Vancouver,47.221611,-120.194867,West,Oregon
+LOWA01143,US,WA,Bellevue,47.720062,-120.130513,West,Oregon
+LOWA01144,US,WA,Kennewick,47.770276,-119.951027,West,Oregon
+LOWA01145,US,WA,Renton,47.461969,-119.951947,West,Oregon
+LONC01146,US,NC,High Point,35.510019,-78.844734,West,Carolinas Interior
+LOGA01147,US,GA,Augusta,32.369498,-83.08817,South/Southeast,Atlanta Metro
+LOCA01148,US,CA,San Bernardino,36.236457,-118.732126,South/Southeast,Central Valley
+LOGA01149,US,GA,Columbus,32.735535,-83.048331,South/Southeast,Atlanta Metro
+LOCA01150,US,CA,Fontana,36.168219,-119.014199,Central/Northeast,Sacramento Valley
+LOWA01159,US,WA,Kirkland,47.498524,-120.177192,West,Oregon
+LOWA01160,US,WA,Bellevue,47.554678,-120.188318,West,Cascades
+LOCA01161,US,CA,Moreno Valley,35.898939,-118.786982,Central/Northeast,Bay Area
+LOIL01162,US,IL,Schaumburg,40.824245,-89.257305,Central/Northeast,Chicago Metro
+LOIL01163,US,IL,Bolingbrook,40.741405,-88.735529,Central/Northeast,Chicago Metro
+LOIL01164,US,IL,Springfield,41.004152,-89.054353,Central/Northeast,Chicago Metro
+LOIL01165,US,IL,Rockford,41.186527,-88.798504,Central/Northeast,Chicago Metro
+LONY01168,US,NY,Schenectady,42.899315,-75.883829,Central/Northeast,Long Island
+LONY01169,US,NY,Mount Vernon,43.162674,-75.90721,Central/Northeast,Long Island
+LOIL01172,US,IL,Joliet,40.790957,-88.77447,Central/Northeast,Missouri Valley
+LONY01174,US,NY,Binghamton,43.023457,-76.130517,South/Southeast,New Jersey
+LOCA01177,US,CA,Oxnard,35.955137,-119.277457,Central/Northeast,Central Valley
+LOCA01178,US,CA,Pomona,35.77672,-118.840672,Central/Northeast,Central Valley
+LOCA01179,US,CA,Escondido,35.700007,-119.050061,Central/Northeast,Central Valley
+LOCA01180,US,CA,Hayward,36.013506,-119.267219,West,Central Valley
+LOCA01181,US,CA,Sunnyvale,36.283847,-119.164325,Central/Northeast,Greater LA
+LOCA01182,US,CA,Pasadena,35.882519,-119.117634,Central/Northeast,Greater LA
+LOCA01187,US,CA,Sacramento,35.83825,-119.299116,Central/Northeast,Greater LA
+LOCA01189,US,CA,Fresno,36.137607,-118.719893,Central/Northeast,Greater LA
+LONY01190,US,NY,Niagara Falls,42.834576,-75.902172,Central/Northeast,New Jersey
+LONY01191,US,NY,Buffalo,43.145138,-75.790945,Central/Northeast,New Jersey
+LOCA01197,US,CA,Bakersfield,35.953578,-119.118241,Central/Northeast,Bay Area
+LOCA01216,US,CA,Stockton,35.895177,-118.872427,Central/Northeast,Sacramento Valley
+LOCA01217,US,CA,Modesto,36.190068,-119.191032,Central/Northeast,Sacramento Valley
+LOCA01218,US,CA,Riverside,35.922565,-118.758836,Central/Northeast,Sacramento Valley
+LONC01219,US,NC,Concord,35.684016,-78.709085,West,Carolinas Interior
+LOWA01223,US,WA,Everett,47.652549,-120.064083,West,Pacific Northwest
+LOLA01224,US,LA,Monroe,30.554383,-91.403391,South/Southeast,Louisiana
+LOLA01225,US,LA,Alexandria,30.247073,-91.473302,South/Southeast,Louisiana
+LOCA01231,US,CA,San Bernardino,36.125592,-119.199607,Central/Northeast,Central Valley
+LOCA01232,US,CA,Fontana,36.168379,-118.949736,Central/Northeast,Central Valley
+LOCA01238,US,CA,Moreno Valley,36.271333,-119.274547,Central/Northeast,Bay Area
+LOCA01239,US,CA,Oxnard,35.859196,-118.939068,Central/Northeast,Bay Area
+LOCA01240,US,CA,Pomona,35.877936,-118.871346,Central/Northeast,Bay Area
+LOTN01242,US,TN,Murfreesboro,36.155403,-86.23849,West,Tennessee Valley
+LOCA01243,US,CA,Escondido,36.008313,-118.994666,West,Central Valley
+LOCA01244,US,CA,Hayward,35.921568,-118.740245,West,Central Valley
+LOMS01246,US,MS,Jackson,32.696504,-89.381674,South/Southeast,Gulf Coast
+LONC01271,US,NC,Gastonia,35.628596,-79.02297,West,Carolinas Interior
+LOIL01275,US,IL,Naperville,41.252597,-88.883243,Central/Northeast,Chicago Metro
+LOIL01276,US,IL,Peoria,41.137389,-88.782985,Central/Northeast,Midwest Interior
+LOIL01277,US,IL,Elgin,40.864443,-88.815757,Central/Northeast,Midwest Interior
+LOIL01278,US,IL,Waukegan,40.817144,-89.092795,Central/Northeast,Midwest Interior
+LOIL01279,US,IL,Cicero,40.901366,-88.712885,Central/Northeast,Midwest Interior
+LOIL01280,US,IL,Champaign,41.213922,-88.879298,Central/Northeast,Midwest Interior
+LOIL01281,US,IL,Bloomington,41.136234,-88.962756,Central/Northeast,Midwest Interior
+LOIL01282,US,IL,Decatur,41.268254,-89.002245,Central/Northeast,Midwest Interior
+LOCA01283,US,CA,Sunnyvale,35.928311,-119.202179,Central/Northeast,Sacramento Valley
+LOCA01285,US,CA,Pasadena,36.171723,-118.859334,Central/Northeast,Sacramento Valley
+LOCA01286,US,CA,Sacramento,35.930613,-119.284884,Central/Northeast,Sacramento Valley
+LOCA01287,US,CA,Fresno,36.203398,-119.293149,Central/Northeast,Sacramento Valley
+LOCA01288,US,CA,Bakersfield,36.12222,-118.717846,Central/Northeast,Sacramento Valley
+LOCA01289,US,CA,Stockton,35.962597,-119.159016,Central/Northeast,Sacramento Valley
+LOCA01290,US,CA,Modesto,36.122923,-118.809723,Central/Northeast,Sacramento Valley
+LOCA01291,US,CA,Riverside,36.027858,-118.719779,Central/Northeast,Sacramento Valley
+LOCA01292,US,CA,San Bernardino,35.731001,-118.997123,Central/Northeast,Sacramento Valley
+LOCA01293,US,CA,Fontana,36.131072,-118.782416,Central/Northeast,Sacramento Valley
+LOCA01294,US,CA,Moreno Valley,35.807553,-118.819998,Central/Northeast,Sacramento Valley
+LOCA01295,US,CA,Oxnard,36.031624,-119.062068,Central/Northeast,Sacramento Valley
+LOCA01296,US,CA,Pomona,35.779029,-118.780823,Central/Northeast,Sacramento Valley
+LOCA01297,US,CA,Escondido,35.794364,-119.114127,Central/Northeast,Sacramento Valley
+LOCA01298,US,CA,Hayward,35.874027,-118.777152,Central/Northeast,Sacramento Valley
+LOCA01299,US,CA,Sunnyvale,36.103622,-118.821991,Central/Northeast,Sacramento Valley
+LOCA01300,US,CA,Pasadena,35.850281,-118.925076,Central/Northeast,Sacramento Valley
+LOCA01301,US,CA,Sacramento,36.043048,-118.800302,Central/Northeast,Sacramento Valley
+LOCA01302,US,CA,Fresno,36.243652,-119.292706,Central/Northeast,Sacramento Valley
+LOIL01303,US,IL,Aurora,41.104412,-89.268899,Central/Northeast,Chicago Metro
+LOIL01304,US,IL,Evanston,41.029315,-89.12742,Central/Northeast,Chicago Metro
+LOWA01305,US,WA,Yakima,47.384066,-120.088225,West,Oregon
+LOWA01306,US,WA,Bellingham,47.572775,-120.09957,West,Pacific Northwest
+LOIL01311,US,IL,Schaumburg,41.139619,-89.057284,Central/Northeast,Missouri Valley
+LOIL01312,US,IL,Bolingbrook,40.741012,-88.829744,Central/Northeast,Missouri Valley
+LOIL01313,US,IL,Springfield,40.871455,-89.04034,Central/Northeast,Missouri Valley
+LOCA01321,US,CA,Bakersfield,36.111266,-119.100526,Central/Northeast,Bay Area
+LOCA01334,US,CA,Stockton,35.733951,-119.075647,Central/Northeast,Central Valley
+LOTN01344,US,TN,Franklin,36.266669,-85.914959,West,Tennessee Valley
+LOTN01345,US,TN,Johnson City,36.102887,-85.920631,West,Tennessee Valley
+LOCA01355,US,CA,Modesto,35.819395,-119.049,Central/Northeast,Central Valley
+LOCA01356,US,CA,Riverside,36.150564,-119.239176,Central/Northeast,Sacramento Valley
+LOCA01357,US,CA,San Bernardino,35.866712,-119.134209,Central/Northeast,Sacramento Valley
+LOCA01358,US,CA,Fontana,35.959211,-118.711779,Central/Northeast,Sacramento Valley
+LOCA01359,US,CA,Moreno Valley,35.740502,-118.988779,Central/Northeast,Sacramento Valley
+LOCA01360,US,CA,Oxnard,35.807619,-118.717594,Central/Northeast,Sacramento Valley
+LONY01363,US,NY,Rochester,42.767982,-76.057839,Central/Northeast,New Jersey
+LONY01364,US,NY,Yonkers,43.142731,-75.877267,Central/Northeast,New Jersey
+LONY01365,US,NY,Syracuse,42.953637,-76.092085,Central/Northeast,New Jersey
+LONY01366,US,NY,Albany,42.938567,-76.141434,Central/Northeast,New Jersey
+LONY01367,US,NY,New Rochelle,42.8232,-76.010176,Central/Northeast,New Jersey
+LONY01369,US,NY,White Plains,42.86112,-76.127523,Central/Northeast,New Jersey
+LONY01371,US,NY,Troy,43.094054,-75.718878,Central/Northeast,New Jersey
+LOTN01373,US,TN,Bartlett,36.062182,-86.253812,Central/Northeast,Nashville Metro
+LOCA01374,US,CA,Pomona,35.74535,-118.729146,Central/Northeast,Greater LA
+LOCA01375,US,CA,Escondido,35.878374,-119.24476,Central/Northeast,Greater LA
+LOAK01376,US,AK,Anchorage,61.059427,-149.925811,Central/Northeast,Alaska
+LOFL01377,US,FL,Cape Coral,27.089103,-82.139559,Central/Northeast,Florida Interior
+LOFL01378,US,FL,Pembroke Pines,26.709066,-81.720991,Central/Northeast,Florida Interior
+LOFL01379,US,FL,Hollywood,26.850536,-81.894384,Central/Northeast,Florida Interior
+LOFL01380,US,FL,Miramar,27.123978,-81.933996,Central/Northeast,Florida Interior
+LOTN01381,US,TN,Hendersonville,35.887744,-86.137342,West,Memphis
+LOTN01382,US,TN,Kingsport,36.058601,-85.780343,West,Memphis
+LOCA01386,US,CA,Hayward,36.26804,-119.236457,West,Central Valley
+LOCA01387,US,CA,Sunnyvale,35.792897,-118.733158,West,Central Valley
+LOCA01388,US,CA,Pasadena,36.141921,-118.770204,West,Central Valley
+LOCA01389,US,CA,Sacramento,35.82158,-118.947448,West,Central Valley
+LOCA01390,US,CA,Fresno,36.120684,-118.891933,West,Central Valley
+LOCA01391,US,CA,Bakersfield,35.944891,-119.290763,West,Central Valley
+LOTN01393,US,TN,Jackson,36.049756,-86.148139,West,Tennessee Valley
+LOTN01394,US,TN,Nashville,35.970153,-85.725451,West,Tennessee Valley
+LOTN01395,US,TN,Memphis,35.939421,-85.796119,West,Tennessee Valley
+LOTN01410,US,TN,Knoxville,35.813124,-85.896524,West,Memphis
+LOIL01413,US,IL,Rockford,41.286204,-89.238864,Central/Northeast,Chicago Metro
+LOIL01414,US,IL,Joliet,40.704992,-89.03985,Central/Northeast,Chicago Metro
+LOCA01416,US,CA,Stockton,35.755575,-118.850969,Central/Northeast,Greater LA
+LOCA01419,US,CA,Modesto,36.248729,-119.039587,Central/Northeast,Central Valley
+LOCA01420,US,CA,Riverside,35.855227,-119.039358,Central/Northeast,Bay Area
+LOCA01421,US,CA,San Bernardino,36.134069,-119.294568,Central/Northeast,Bay Area
+LOCA01422,US,CA,Fontana,36.053672,-118.932025,Central/Northeast,Bay Area
+LOCA01423,US,CA,Moreno Valley,36.082613,-119.154787,Central/Northeast,Central Valley
+LOCA01424,US,CA,Oxnard,36.128432,-119.245165,Central/Northeast,Central Valley
+LOCA01425,US,CA,Pomona,35.819562,-118.773518,Central/Northeast,Bay Area
+LOCA01426,US,CA,Escondido,36.143234,-119.291753,Central/Northeast,Bay Area
+LOCA01427,US,CA,Hayward,35.849026,-119.171356,Central/Northeast,Bay Area
+LOCA01428,US,CA,Sunnyvale,35.862484,-119.151464,Central/Northeast,Greater LA
+LOCA01429,US,CA,Pasadena,35.737516,-119.024636,Central/Northeast,Greater LA
+LOCA01430,US,CA,Sacramento,36.13964,-118.935961,Central/Northeast,Greater LA
+LOCA01431,US,CA,Fresno,36.103723,-119.25131,Central/Northeast,Bay Area
+LOCA01432,US,CA,Bakersfield,36.270894,-118.796905,Central/Northeast,Bay Area
+LOCA01433,US,CA,Stockton,36.183054,-118.80621,Central/Northeast,Central Valley
+LOCA01434,US,CA,Modesto,36.259626,-118.973448,Central/Northeast,Bay Area
+LONC01441,US,NC,Asheville,35.320169,-78.92993,West,Carolinas Interior
+LOIL01442,US,IL,Naperville,41.145729,-88.85725,Central/Northeast,Missouri Valley
+LOWA01443,US,WA,Marysville,47.512869,-120.258925,West,Oregon
+LOWA01444,US,WA,Redmond,47.422668,-119.74754,West,Oregon
+LOSC01445,US,SC,Columbia,33.850669,-80.977001,South/Southeast,Gulf Coast
+LOSC01446,US,SC,Charleston,33.661312,-81.078931,South/Southeast,Gulf Coast
+LOSC01447,US,SC,North Charleston,34.037208,-80.900122,South/Southeast,Gulf Coast
+LOSC01448,US,SC,Mount Pleasant,33.972432,-81.027393,South/Southeast,Gulf Coast
+LOSC01449,US,SC,Rock Hill,33.878148,-81.15097,South/Southeast,Gulf Coast
+LOSC01450,US,SC,Greenville,33.923276,-81.043439,South/Southeast,Gulf Coast
+LOSC01451,US,SC,Summerville,33.765527,-80.910407,South/Southeast,Gulf Coast
+LOSC01452,US,SC,Goose Creek,34.061768,-81.261596,South/Southeast,Gulf Coast
+LOSC01453,US,SC,Columbia,33.994846,-81.12457,South/Southeast,Gulf Coast
+LOSC01454,US,SC,Charleston,33.766352,-81.286852,South/Southeast,Gulf Coast
+LOSC01455,US,SC,North Charleston,33.680628,-80.998421,South/Southeast,Gulf Coast
+LOSC01456,US,SC,Mount Pleasant,33.533706,-81.005343,South/Southeast,Gulf Coast
+LOSC01457,US,SC,Rock Hill,34.056266,-81.236764,South/Southeast,Gulf Coast
+LONY01459,US,NY,Utica,43.158664,-76.054197,Central/Northeast,New York Metro
+LONY01460,US,NY,Schenectady,43.093104,-76.143858,Central/Northeast,New York Metro
+LONY01461,US,NY,Mount Vernon,42.795695,-76.203722,Central/Northeast,New York Metro
+LONY01462,US,NY,Binghamton,42.742295,-76.188612,Central/Northeast,New Jersey
+LONY01463,US,NY,Niagara Falls,43.098532,-75.770986,Central/Northeast,New Jersey
+LONY01464,US,NY,Buffalo,43.188475,-75.888919,Central/Northeast,New York Metro
+LONY01465,US,NY,Rochester,42.766259,-76.126488,Central/Northeast,New York Metro
+LONY01466,US,NY,Yonkers,42.885884,-76.150026,Central/Northeast,New York Metro
+LONY01467,US,NY,Syracuse,43.009003,-75.978668,Central/Northeast,New York Metro
+LONY01468,US,NY,Albany,42.914132,-76.087727,Central/Northeast,New York Metro
+LONY01469,US,NY,New Rochelle,43.197133,-75.826424,Central/Northeast,New York Metro
+LONY01470,US,NY,White Plains,42.884677,-75.751727,Central/Northeast,New York Metro
+LONY01471,US,NY,Troy,43.271689,-76.103954,Central/Northeast,New York Metro
+LONY01472,US,NY,Utica,42.912655,-75.99662,Central/Northeast,New York Metro
+LONY01473,US,NY,Schenectady,43.264672,-75.774208,Central/Northeast,New York Metro
+LOWA01474,US,WA,Lakewood,47.261541,-120.064362,West,Cascades
+LOIL01475,US,IL,Peoria,41.032023,-88.998121,Central/Northeast,Chicago Metro
+LOIL01476,US,IL,Elgin,40.816318,-88.78471,Central/Northeast,Midwest Interior
+LOIL01482,US,IL,Waukegan,41.106164,-88.797255,Central/Northeast,Chicago Metro
+LOIL01483,US,IL,Cicero,41.215259,-88.850986,Central/Northeast,Chicago Metro
+LOIL01484,US,IL,Champaign,40.963526,-88.933672,Central/Northeast,Chicago Metro
+LOIL01485,US,IL,Bloomington,40.796219,-88.895813,Central/Northeast,Chicago Metro
+LOIL01486,US,IL,Decatur,40.807552,-88.88363,Central/Northeast,Chicago Metro
+LOWA01495,US,WA,Spokane,47.337759,-120.229469,West,Cascades
+LOWA01496,US,WA,Tacoma,47.299171,-120.298805,West,Cascades
+LOWA01497,US,WA,Vancouver,47.631244,-119.860559,West,Cascades
+LOWA01502,US,WA,Bellevue,47.50896,-120.203182,West,Cascades
+LOCA01513,US,CA,Riverside,35.750133,-119.288523,Central/Northeast,Central Valley
+LOCA01514,US,CA,San Bernardino,35.799449,-118.765487,Central/Northeast,Central Valley
+LOCA01515,US,CA,Fontana,35.844922,-119.087437,West,Central Valley
+LOCA01516,US,CA,Moreno Valley,35.763207,-119.166583,Central/Northeast,Central Valley
+LOCA01517,US,CA,Oxnard,36.011535,-118.935348,Central/Northeast,Central Valley
+LOCA01520,US,CA,Pomona,35.847211,-119.265361,Central/Northeast,Central Valley
+LOCA01521,US,CA,Escondido,35.93462,-119.159478,Central/Northeast,Central Valley
+LONC01523,US,NC,Greenville,35.331732,-78.724082,West,Carolinas Interior
+LONC01524,US,NC,Charlotte,35.56978,-78.965873,West,Carolinas Interior
+LONC01525,US,NC,Raleigh,35.449465,-79.042633,West,Carolinas Interior
+LOCA01529,US,CA,Hayward,36.024543,-118.882142,Central/Northeast,Greater LA
+LOFL01532,US,FL,Gainesville,27.121288,-82.196984,Central/Northeast,Florida Interior
+LOCA01533,US,CA,Sunnyvale,36.000068,-119.052825,West,Central Valley
+LOCA01534,US,CA,Pasadena,36.222316,-118.921149,West,Central Valley
+LOCA01535,US,CA,Sacramento,36.019502,-119.230763,West,Central Valley
+LONC01541,US,NC,Greensboro,35.563383,-79.229678,West,Carolinas Interior
+LONC01542,US,NC,Durham,35.402324,-79.214295,West,Carolinas Interior
+LOWA01543,US,WA,Kennewick,47.615244,-120.176249,West,Oregon
+LOWA01544,US,WA,Renton,47.435116,-119.762595,West,Oregon
+LOWA01545,US,WA,Kirkland,47.32259,-119.995317,West,Oregon
+LOWA01546,US,WA,Bellevue,47.451563,-120.289126,West,Oregon
+LOWA01547,US,WA,Everett,47.675655,-120.258572,West,Oregon
+LOWA01548,US,WA,Yakima,47.484553,-119.963593,West,Oregon
+LOWA01549,US,WA,Bellingham,47.577056,-119.886821,West,Oregon
+LOWA01550,US,WA,Marysville,47.351963,-120.294013,West,Oregon
+LOIL01551,US,IL,Aurora,41.134066,-88.978606,Central/Northeast,Chicago Metro
+LOCA01554,US,CA,Fresno,36.201671,-118.807167,West,Central Valley
+LONY01555,US,NY,Mount Vernon,43.205996,-76.008943,Central/Northeast,New Jersey
+LOTN01557,US,TN,Chattanooga,35.900177,-85.825065,West,Tennessee Valley
+LOFL01561,US,FL,Jacksonville,26.970776,-82.189935,Central/Northeast,Florida Interior
+LOFL01562,US,FL,Tampa,27.212984,-81.770464,Central/Northeast,Florida Interior
+LOFL01563,US,FL,Orlando,26.979786,-82.25458,Central/Northeast,Florida Interior
+LOFL01564,US,FL,Fort Lauderdale,26.932696,-81.817877,Central/Northeast,Florida Interior
+LOSC01565,US,SC,Greenville,34.041064,-81.177916,South/Southeast,Gulf Coast
+LOIL01566,US,IL,Evanston,40.740184,-88.77359,Central/Northeast,Missouri Valley
+LOIL01567,US,IL,Schaumburg,40.933643,-88.974943,Central/Northeast,Missouri Valley
+LOWA01568,US,WA,Redmond,47.780839,-120.260061,West,Oregon
+LOWA01569,US,WA,Lakewood,47.588991,-120.255537,West,Oregon
+LOWA01570,US,WA,Spokane,47.425281,-119.817711,West,Oregon
+LOWA01571,US,WA,Tacoma,47.460083,-119.701691,West,Oregon
+LOWA01572,US,WA,Vancouver,47.535436,-120.107303,West,Oregon
+LOWA01573,US,WA,Bellevue,47.332067,-120.089688,West,Oregon
+LOWA01574,US,WA,Kennewick,47.42352,-120.258772,West,Oregon
+LOWA01575,US,WA,Renton,47.421745,-120.021457,West,Oregon
+LOWA01576,US,WA,Kirkland,47.633643,-119.905962,West,Oregon
+LOWA01577,US,WA,Bellevue,47.625259,-120.294982,West,Oregon
+LOWA01578,US,WA,Everett,47.3306,-119.902989,West,Oregon
+LOWA01579,US,WA,Yakima,47.490394,-120.296812,West,Oregon
+LOWA01580,US,WA,Bellingham,47.682697,-119.836314,West,Oregon
+LOWA01581,US,WA,Marysville,47.529051,-120.260122,West,Oregon
+LOWA01582,US,WA,Redmond,47.659909,-119.949772,West,Oregon
+LOTN01585,US,TN,Clarksville,36.169176,-85.848952,West,Memphis
+LOTN01586,US,TN,Murfreesboro,36.181801,-85.989195,West,Memphis
+LOCA01602,US,CA,Bakersfield,35.784195,-118.897306,Central/Northeast,Central Valley
+LOLA01605,US,LA,New Orleans,30.572284,-91.354648,South/Southeast,Louisiana
+LOCA01606,US,CA,Stockton,35.801929,-119.183015,West,Central Valley
+LOCA01607,US,CA,Modesto,36.234246,-118.850013,West,Central Valley
+LOCA01608,US,CA,Riverside,36.244937,-118.844771,Central/Northeast,Central Valley
+LOIL01609,US,IL,Bolingbrook,41.058293,-88.90752,Central/Northeast,Chicago Metro
+LOWA01611,US,WA,Lakewood,47.733477,-119.952716,West,Puget Sound
+LOWA01612,US,WA,Spokane,47.579435,-120.206114,West,Puget Sound
+LOWA01613,US,WA,Tacoma,47.484353,-119.870162,West,Puget Sound
+LOWA01614,US,WA,Vancouver,47.362566,-120.178647,West,Puget Sound
+LOWA01615,US,WA,Bellevue,47.388296,-120.1551,West,Puget Sound
+LOWA01616,US,WA,Kennewick,47.328948,-120.045089,West,Puget Sound
+LOWA01617,US,WA,Renton,47.744703,-119.995764,West,Puget Sound
+LOCA01623,US,CA,San Bernardino,35.812752,-119.253817,Central/Northeast,SoCal Coast
+LOCA01624,US,CA,Fontana,36.117694,-119.070321,Central/Northeast,Sacramento Valley
+LONC01625,US,NC,Winston-Salem,35.693099,-78.904294,West,Western NC
+LONC01626,US,NC,Fayetteville,35.677745,-79.136832,West,Western NC
+LONC01627,US,NC,Cary,35.615415,-79.141563,West,Western NC
+LOCA01628,US,CA,Moreno Valley,36.263441,-118.918175,Central/Northeast,Bay Area
+LOCA01655,US,CA,Oxnard,35.894707,-119.138293,West,Central Valley
+LOCA01656,US,CA,Pomona,35.814556,-118.883215,West,Central Valley
+LOCA01657,US,CA,Escondido,35.831229,-118.942818,West,Central Valley
+LOIL01659,US,IL,Springfield,40.858781,-88.902819,Central/Northeast,Missouri Valley
+LOCA01660,US,CA,Hayward,36.188964,-118.833185,Central/Northeast,Central Valley
+LOIL01661,US,IL,Rockford,41.156511,-89.187367,Central/Northeast,Missouri Valley
+LOIL01662,US,IL,Joliet,40.753031,-88.880631,Central/Northeast,Missouri Valley
+LOCA01663,US,CA,Sunnyvale,35.921008,-119.040592,Central/Northeast,Central Valley
+LOCA01664,US,CA,Pasadena,35.718689,-119.144254,Central/Northeast,Central Valley
+LOIL01665,US,IL,Naperville,40.720206,-88.772489,Central/Northeast,Missouri Valley
+LOIL01666,US,IL,Peoria,40.846038,-88.965598,Central/Northeast,Missouri Valley
+LOIL01667,US,IL,Elgin,40.723388,-88.899892,Central/Northeast,Missouri Valley
+LOIL01668,US,IL,Waukegan,40.893816,-88.761248,Central/Northeast,Missouri Valley
+LOIL01669,US,IL,Cicero,41.232871,-89.104826,Central/Northeast,Missouri Valley
+LOCA01671,US,CA,Sacramento,36.240577,-118.702305,West,Central Valley
+LOIL01672,US,IL,Champaign,41.195249,-88.793077,Central/Northeast,Midwest Interior
+LOTN01673,US,TN,Franklin,35.849405,-85.953979,West,Nashville Metro
+LOTN01675,US,TN,Johnson City,35.740354,-86.243049,West,Nashville Metro
+LOCA01679,US,CA,Fresno,36.299336,-119.104016,West,Central Valley
+LOTN01680,US,TN,Bartlett,36.14891,-85.816001,West,Nashville Metro
+LOTN01681,US,TN,Hendersonville,36.214814,-85.701423,West,Nashville Metro
+LOTN01682,US,TN,Kingsport,35.844898,-86.27579,West,Nashville Metro
+LOWA01688,US,WA,Kirkland,47.446715,-120.221952,West,Pacific Northwest
+LOCA01698,US,CA,Bakersfield,35.713456,-119.083744,Central/Northeast,Sacramento Valley
+LOGA01700,US,GA,Savannah,32.670243,-82.960292,South/Southeast,Atlanta Metro
+LOCA01701,US,CA,Stockton,35.887667,-118.907395,Central/Northeast,Central Valley
+LOCA01702,US,CA,Modesto,35.839211,-119.291371,Central/Northeast,Central Valley
+LOCA01710,US,CA,Riverside,36.158612,-118.925754,Central/Northeast,SoCal Coast
+LOCA01711,US,CA,San Bernardino,36.157382,-119.276637,Central/Northeast,SoCal Coast
+LOCA01712,US,CA,Fontana,36.202272,-118.928284,West,Central Valley
+LOCA01713,US,CA,Moreno Valley,36.038037,-118.925232,West,Central Valley
+LOCA01714,US,CA,Oxnard,36.21866,-118.947838,West,Central Valley
+LOCA01715,US,CA,Pomona,36.04857,-118.705593,West,Central Valley
+LOTN01716,US,TN,Jackson,36.154038,-86.034624,West,Nashville Metro
+LOTN01717,US,TN,Nashville,36.124438,-86.066462,West,Nashville Metro
+LOTN01719,US,TN,Memphis,35.837325,-85.941889,West,Memphis
+LOLA01720,US,LA,Baton Rouge,30.756909,-91.242516,South/Southeast,Louisiana
+LOLA01721,US,LA,Shreveport,30.405143,-91.483394,South/Southeast,Louisiana
+LOLA01722,US,LA,Metairie,30.326982,-91.202621,South/Southeast,Louisiana
+LOLA01723,US,LA,Lafayette,30.788671,-91.410295,South/Southeast,Louisiana
+LOLA01724,US,LA,Lake Charles,30.682648,-91.37094,South/Southeast,Louisiana
+LOCA01725,US,CA,Escondido,36.055895,-119.267991,Central/Northeast,SoCal Coast
+LONY01726,US,NY,Binghamton,42.972859,-75.895128,Central/Northeast,New Jersey
+LOIL01728,US,IL,Bloomington,41.106519,-89.076126,South/Southeast,Chicago Metro
+LOTN01729,US,TN,Knoxville,36.265015,-86.199586,West,Tennessee Valley
+LOCA01732,US,CA,Hayward,36.000216,-118.88547,Central/Northeast,Greater LA
+LOCA01753,US,CA,Sunnyvale,36.118281,-118.910817,Central/Northeast,Central Valley
+LOCA01754,US,CA,Pasadena,35.865173,-119.206276,West,Central Valley
+LOCA01755,US,CA,Sacramento,36.081564,-118.940419,West,Central Valley
+LOCA01756,US,CA,Fresno,35.807614,-118.876917,West,Central Valley
+LONY01761,US,NY,Niagara Falls,42.973103,-75.899344,Central/Northeast,New Jersey
+LONY01762,US,NY,Buffalo,43.20242,-76.198163,Central/Northeast,New Jersey
+LONY01763,US,NY,Rochester,42.711487,-75.832538,Central/Northeast,New Jersey
+LONY01764,US,NY,Yonkers,43.065818,-75.880216,Central/Northeast,New Jersey
+LONY01776,US,NY,Syracuse,43.202893,-75.818313,Central/Northeast,New Jersey
+LONY01777,US,NY,Albany,43.276552,-75.978439,Central/Northeast,New Jersey
+LONY01778,US,NY,New Rochelle,42.993097,-76.058868,Central/Northeast,New Jersey
+LONY01779,US,NY,White Plains,42.792215,-75.956436,Central/Northeast,New Jersey
+LONY01780,US,NY,Troy,42.866208,-75.747215,Central/Northeast,New Jersey
+LONY01781,US,NY,Utica,43.049914,-75.944296,Central/Northeast,New Jersey
+LONY01782,US,NY,Schenectady,42.912955,-76.268806,Central/Northeast,New Jersey
+LONY01783,US,NY,Mount Vernon,42.719046,-76.045999,Central/Northeast,New Jersey
+LONY01806,US,NY,Binghamton,42.750739,-75.935892,Central/Northeast,New York Metro
+LONY01813,US,NY,Niagara Falls,43.228584,-75.770251,Central/Northeast,New York Metro
+LONY01840,US,NY,Buffalo,43.095427,-76.173261,Central/Northeast,Long Island
+LONY01851,US,NY,Rochester,43.217798,-75.768344,Central/Northeast,New York Metro
+LOMT01867,US,MT,Butte,46.817992,-108.857544,Central/Northeast,Great Plains
+LOLA01869,US,LA,Kenner,30.371912,-91.318416,South/Southeast,Louisiana
+LOTX01873,US,TX,Fort Worth,30.298343,-97.281984,South/Southeast,Southeast
+LOCA01886,US,CA,Bakersfield,36.23842,-118.926422,Central/Northeast,Bay Area
+LOCA01887,US,CA,Stockton,36.28403,-119.020994,Central/Northeast,Bay Area
+LOCA01888,US,CA,Modesto,36.208433,-119.262564,Central/Northeast,Bay Area
+LOCA01889,US,CA,Riverside,35.901167,-119.25979,Central/Northeast,Bay Area
+LOCA01890,US,CA,San Bernardino,36.285206,-118.809816,Central/Northeast,Bay Area
+LOCA01891,US,CA,Fontana,36.211528,-118.737221,Central/Northeast,Bay Area
+LOCA01892,US,CA,Moreno Valley,35.751062,-119.068641,Central/Northeast,Bay Area
+LOSC01893,US,SC,Summerville,33.542621,-81.173524,South/Southeast,Gulf Coast
+LOCA01894,US,CA,Oxnard,35.837619,-119.018536,West,Central Valley
+LOWA01895,US,WA,Bellevue,47.361137,-120.239413,West,Oregon
+LOCA01898,US,CA,Pomona,35.800495,-119.211635,Central/Northeast,Central Valley
+LOCA01899,US,CA,Escondido,36.283846,-118.844424,Central/Northeast,Bay Area
+LOMO01901,US,MO,Blue Springs,38.780657,-92.036156,Central/Northeast,Midwest
+LOWA01908,US,WA,Everett,47.367021,-119.821024,West,Oregon
+LOWA01909,US,WA,Yakima,47.395752,-120.12037,West,Oregon
+LOWA01910,US,WA,Bellingham,47.339504,-120.222193,West,Oregon
+LOWA01911,US,WA,Marysville,47.353878,-120.086808,West,Oregon
+LOWA01922,US,WA,Redmond,47.604397,-120.262461,West,Oregon
+LOMS01926,US,MS,Gulfport,32.326304,-89.314586,South/Southeast,Gulf Coast
+LOWA01927,US,WA,Lakewood,47.288153,-120.094413,West,Oregon
+LOWA01928,US,WA,Spokane,47.718795,-120.207045,West,Oregon
+LOWA01929,US,WA,Tacoma,47.249642,-120.009277,West,Oregon
+LOWA01930,US,WA,Vancouver,47.381452,-119.961955,West,Oregon
+LOWA01931,US,WA,Bellevue,47.682283,-120.217711,West,Oregon
+LOWA01932,US,WA,Kennewick,47.548419,-119.996695,West,Oregon
+LOWA01933,US,WA,Renton,47.286447,-119.925601,West,Oregon
+LOWA01934,US,WA,Kirkland,47.364184,-120.007299,West,Oregon
+LOWA01935,US,WA,Bellevue,47.249363,-120.02425,West,Oregon
+LOCA01936,US,CA,Hayward,35.883878,-118.806571,Central/Northeast,Central Valley
+LOCA01943,US,CA,Sunnyvale,35.734187,-119.048836,Central/Northeast,Greater LA
+LOWA01956,US,WA,Everett,47.475059,-119.864996,West,Oregon
+LOWA01957,US,WA,Yakima,47.544573,-119.899673,West,Oregon
+LOTN01959,US,TN,Chattanooga,36.16623,-85.782678,West,Tennessee Valley
+LOCA01961,US,CA,Pasadena,35.888325,-118.977186,Central/Northeast,Bay Area
+LOCA01962,US,CA,Sacramento,36.204065,-118.706329,Central/Northeast,Bay Area
+LOCA01963,US,CA,Fresno,36.233712,-119.07712,Central/Northeast,SoCal Coast
+LOCA01964,US,CA,Bakersfield,35.8171,-119.006364,Central/Northeast,SoCal Coast
+LOCA01965,US,CA,Stockton,36.144985,-119.004459,Central/Northeast,SoCal Coast
+LOCA01966,US,CA,Modesto,35.989909,-118.797062,Central/Northeast,SoCal Coast
+LOCA01967,US,CA,Riverside,35.916842,-118.784123,Central/Northeast,SoCal Coast
+LOCA01968,US,CA,San Bernardino,35.944083,-119.10306,Central/Northeast,SoCal Coast
+LOCA01969,US,CA,Fontana,35.972394,-118.842532,Central/Northeast,SoCal Coast
+LONC01971,US,NC,Wilmington,35.275601,-79.182148,West,Nashville Metro
+LOCA01973,US,CA,Moreno Valley,36.270867,-119.194705,Central/Northeast,Greater LA
+LOCA01975,US,CA,Oxnard,36.040636,-118.952411,Central/Northeast,Greater LA
+LOCA01976,US,CA,Pomona,35.993775,-118.913153,Central/Northeast,Greater LA
+LOCA01977,US,CA,Escondido,35.837896,-118.968403,Central/Northeast,Greater LA
+LOCA01991,US,CA,Hayward,35.923304,-118.903,Central/Northeast,Greater LA
+LOWA02004,US,WA,Bellingham,47.284734,-119.957474,West,Oregon
+LOCA02005,US,CA,Sunnyvale,35.811162,-119.132814,Central/Northeast,Greater LA
+LOAL02013,US,AL,Montgomery,32.331226,-86.690297,South/Southeast,Alabama
+LONY02016,US,NY,Yonkers,43.195427,-76.128575,Central/Northeast,New York Metro
+LONY02017,US,NY,Syracuse,43.256274,-75.718044,Central/Northeast,New York Metro
+LONY02018,US,NY,Albany,43.042756,-76.214199,Central/Northeast,New Jersey
+LONY02019,US,NY,New Rochelle,42.924729,-75.821361,Central/Northeast,New York Metro
+LONY02020,US,NY,White Plains,42.920434,-76.24779,Central/Northeast,New York Metro
+LONY02021,US,NY,Troy,43.034071,-75.792927,Central/Northeast,New York Metro
+LONY02022,US,NY,Utica,43.177556,-76.194926,Central/Northeast,New York Metro
+LONY02023,US,NY,Schenectady,43.103659,-76.167697,Central/Northeast,New York Metro
+LONY02024,US,NY,Mount Vernon,42.830925,-75.775557,Central/Northeast,New York Metro
+LONY02025,US,NY,Binghamton,42.849801,-76.142052,Central/Northeast,New York Metro
+LONY02033,US,NY,Niagara Falls,42.700392,-75.777599,Central/Northeast,New Jersey
+LOCA02038,US,CA,Pasadena,36.175557,-118.923603,Central/Northeast,Central Valley
+LOCA02039,US,CA,Sacramento,36.150159,-119.208771,Central/Northeast,Central Valley
+LOTN02045,US,TN,Clarksville,35.974994,-86.089268,West,Memphis
+LOTN02046,US,TN,Murfreesboro,35.756266,-86.008322,West,Memphis
+LOWA02054,US,WA,Marysville,47.752444,-120.275965,West,Cascades
+LOCA02056,US,CA,Fresno,35.874877,-119.175475,Central/Northeast,Central Valley
+LOCA02057,US,CA,Bakersfield,35.842888,-118.754939,Central/Northeast,Sacramento Valley
+LOCA02058,US,CA,Stockton,35.980841,-119.02022,Central/Northeast,Sacramento Valley
+LOCA02059,US,CA,Modesto,36.156345,-119.207305,Central/Northeast,Sacramento Valley
+LOCA02060,US,CA,Riverside,35.992359,-119.042009,Central/Northeast,SoCal Coast
+LOCA02061,US,CA,San Bernardino,36.058146,-118.700265,Central/Northeast,SoCal Coast
+LOCA02062,US,CA,Fontana,36.161669,-119.061281,Central/Northeast,SoCal Coast
+LOCA02063,US,CA,Moreno Valley,36.196532,-119.197575,Central/Northeast,SoCal Coast
+LOCA02064,US,CA,Oxnard,35.718278,-119.177331,Central/Northeast,SoCal Coast
+LOCA02065,US,CA,Pomona,35.904247,-118.993652,Central/Northeast,SoCal Coast
+LOCA02066,US,CA,Escondido,36.069077,-118.753637,Central/Northeast,SoCal Coast
+LOCA02067,US,CA,Hayward,36.005912,-118.999235,Central/Northeast,SoCal Coast
+LOCA02068,US,CA,Sunnyvale,35.730146,-119.279053,Central/Northeast,SoCal Coast
+LOCA02069,US,CA,Pasadena,36.030696,-119.037093,Central/Northeast,SoCal Coast
+LOCA02070,US,CA,Sacramento,36.203508,-119.203592,Central/Northeast,SoCal Coast
+LOCA02071,US,CA,Fresno,35.714983,-119.030577,Central/Northeast,SoCal Coast
+LOCA02072,US,CA,Bakersfield,35.842487,-119.270231,Central/Northeast,SoCal Coast
+LOCA02073,US,CA,Stockton,36.134759,-119.233044,Central/Northeast,SoCal Coast
+LOCA02074,US,CA,Modesto,36.064992,-119.13137,Central/Northeast,SoCal Coast
+LOCA02075,US,CA,Riverside,35.804098,-119.072149,Central/Northeast,SoCal Coast
+LOTN02078,US,TN,Franklin,36.180867,-86.064744,West,Nashville Metro
+LOTN02079,US,TN,Johnson City,36.150462,-86.224708,West,Nashville Metro
+LOTN02082,US,TN,Bartlett,36.163663,-86.15784,West,Nashville Metro
+LOGA02090,US,GA,Athens,32.606436,-82.960531,South/Southeast,Atlanta Metro
+LOGA02091,US,GA,Sandy Springs,32.757487,-83.067606,South/Southeast,Atlanta Metro
+LOGA02092,US,GA,Roswell,32.239699,-83.288507,South/Southeast,Atlanta Metro
+LOWA02093,US,WA,Redmond,47.696115,-119.985159,West,Oregon
+LOWA02094,US,WA,Lakewood,47.665146,-120.159345,West,Cascades
+LOWA02095,US,WA,Spokane,47.40705,-120.281938,West,Cascades
+LOWA02096,US,WA,Tacoma,47.776895,-119.899279,West,Cascades
+LOWA02097,US,WA,Vancouver,47.759923,-120.140702,West,Cascades
+LOWA02098,US,WA,Bellevue,47.566878,-119.8929,West,Cascades
+LOWA02099,US,WA,Kennewick,47.39053,-119.791134,West,Cascades
+LOWA02100,US,WA,Renton,47.768297,-119.769087,West,Cascades
+LOWA02101,US,WA,Kirkland,47.64344,-120.133521,West,Cascades
+LOWA02102,US,WA,Bellevue,47.36897,-119.721984,West,Cascades
+LOWA02103,US,WA,Everett,47.206171,-119.87037,West,Cascades
+LOWA02104,US,WA,Yakima,47.623748,-119.926386,West,Cascades
+LOWA02105,US,WA,Bellingham,47.794065,-120.112872,West,Cascades
+LOCA02107,US,CA,San Bernardino,35.903983,-119.252636,Central/Northeast,Sacramento Valley
+LOCA02185,US,CA,Fontana,35.965679,-119.143371,Central/Northeast,Greater LA
+LOCA02186,US,CA,Moreno Valley,35.906032,-118.799257,Central/Northeast,Greater LA
+LOCA02187,US,CA,Oxnard,36.261291,-119.18856,Central/Northeast,Greater LA
+LOCA02197,US,CA,Pomona,35.923505,-118.742822,Central/Northeast,Central Valley
+LOWA02198,US,WA,Marysville,47.237085,-120.244584,West,Cascades
+LONY02202,US,NY,Buffalo,42.797675,-75.942872,Central/Northeast,New Jersey
+LONY02203,US,NY,Rochester,42.790283,-75.719154,Central/Northeast,New Jersey
+LONY02204,US,NY,Yonkers,42.968029,-75.999089,Central/Northeast,New Jersey
+LOTN02205,US,TN,Hendersonville,35.847995,-86.017424,West,Tennessee Valley
+LOTN02207,US,TN,Kingsport,36.097148,-85.849294,West,Tennessee Valley
+LOVA02214,US,VA,Chesapeake,37.652321,-78.953265,South/Southeast,Virginia Coast
+LOVA02215,US,VA,Richmond,37.742616,-78.809555,South/Southeast,Virginia Coast
+LOCA02222,US,CA,Escondido,36.154229,-119.266637,Central/Northeast,Central Valley
+LOCA02223,US,CA,Hayward,35.704127,-119.172532,Central/Northeast,Central Valley
+LOCA02224,US,CA,Sunnyvale,36.098114,-119.053282,Central/Northeast,Central Valley
+LOCA02225,US,CA,Pasadena,35.941444,-118.769248,Central/Northeast,Central Valley
+LOCA02226,US,CA,Sacramento,36.237338,-118.754495,Central/Northeast,Central Valley
+LOCA02227,US,CA,Fresno,35.888327,-118.885367,Central/Northeast,Central Valley
+LOCA02228,US,CA,Bakersfield,35.86298,-119.185634,Central/Northeast,Central Valley
+LOTN02260,US,TN,Jackson,35.810779,-86.094735,West,Tennessee Valley
+LOCA02265,US,CA,Stockton,35.957975,-118.80143,Central/Northeast,Sacramento Valley
+LOCA02266,US,CA,Modesto,35.771935,-118.859044,Central/Northeast,Sacramento Valley
+LOCA02267,US,CA,Riverside,36.018873,-119.127233,Central/Northeast,Sacramento Valley
+LOCA02268,US,CA,San Bernardino,35.995692,-119.120035,Central/Northeast,Sacramento Valley
+LOCA02274,US,CA,Fontana,36.057649,-119.039694,Central/Northeast,Sacramento Valley
+LOCA02290,US,CA,Moreno Valley,35.798643,-119.23005,Central/Northeast,Sacramento Valley
+LOCA02291,US,CA,Oxnard,36.028017,-118.758552,Central/Northeast,Central Valley
+LOCA02297,US,CA,Pomona,35.906375,-118.8602,Central/Northeast,Greater LA
+LOCA02302,US,CA,Escondido,36.095197,-118.741067,Central/Northeast,Greater LA
+LOCA02303,US,CA,Hayward,36.192589,-118.960037,Central/Northeast,Greater LA
+LOCA02304,US,CA,Sunnyvale,36.094218,-118.760968,West,Central Valley
+LOCA02305,US,CA,Pasadena,35.939711,-119.103923,Central/Northeast,Greater LA
+LOCA02306,US,CA,Sacramento,35.706487,-118.804069,Central/Northeast,Greater LA
+LOCA02307,US,CA,Fresno,36.180588,-119.237327,Central/Northeast,Greater LA
+LOCA02308,US,CA,Bakersfield,36.046114,-119.021611,Central/Northeast,Greater LA
+LOCA02309,US,CA,Stockton,35.771225,-118.711659,Central/Northeast,Greater LA
+LOWA02311,US,WA,Redmond,47.328818,-120.259659,West,Oregon
+LOWA02312,US,WA,Lakewood,47.556908,-119.85668,West,Oregon
+LOCA02315,US,CA,Modesto,35.719466,-118.904769,Central/Northeast,Central Valley
+LOCA02316,US,CA,Riverside,36.019375,-119.238041,Central/Northeast,Central Valley
+LOCA02317,US,CA,San Bernardino,35.803514,-118.959215,Central/Northeast,Central Valley
+LOCA02321,US,CA,Fontana,35.877815,-118.737011,Central/Northeast,SoCal Coast
+LOCA02322,US,CA,Moreno Valley,36.191244,-118.70986,Central/Northeast,SoCal Coast
+LOCA02323,US,CA,Oxnard,35.855803,-118.718166,Central/Northeast,SoCal Coast
+LOCA02324,US,CA,Pomona,35.95874,-119.091489,Central/Northeast,SoCal Coast
+LOCA02325,US,CA,Escondido,35.73021,-119.268341,Central/Northeast,SoCal Coast
+LOCA02326,US,CA,Hayward,36.115207,-119.025243,Central/Northeast,SoCal Coast
+LOCA02327,US,CA,Sunnyvale,35.835913,-118.931618,Central/Northeast,SoCal Coast
+LOCA02328,US,CA,Pasadena,35.851715,-118.953421,Central/Northeast,SoCal Coast
+LOCA02329,US,CA,Sacramento,35.915525,-118.805869,Central/Northeast,SoCal Coast
+LOCA02330,US,CA,Fresno,36.192418,-119.01359,Central/Northeast,SoCal Coast
+LOCA02331,US,CA,Bakersfield,35.910491,-119.082464,Central/Northeast,SoCal Coast
+LOCA02332,US,CA,Stockton,36.183429,-119.103092,Central/Northeast,SoCal Coast
+LOCA02333,US,CA,Modesto,35.825436,-119.249187,Central/Northeast,SoCal Coast
+LOCA02334,US,CA,Riverside,35.980016,-119.010721,Central/Northeast,SoCal Coast
+LOCA02335,US,CA,San Bernardino,36.204545,-119.167257,Central/Northeast,SoCal Coast
+LOTN02338,US,TN,Nashville,35.928595,-85.814957,West,Tennessee Valley
+LOWA02342,US,WA,Spokane,47.694174,-120.069233,West,Oregon
+LOCA02343,US,CA,Fontana,35.975474,-119.118028,Central/Northeast,Sacramento Valley
+LOCA02344,US,CA,Moreno Valley,36.259533,-119.228814,Central/Northeast,Sacramento Valley
+LOTN02345,US,TN,Memphis,36.26025,-85.88968,West,Memphis
+LOTN02346,US,TN,Knoxville,36.018943,-86.280405,West,Memphis
+LOTN02347,US,TN,Chattanooga,35.985358,-86.055351,West,Memphis
+LOWA02348,US,WA,Tacoma,47.296731,-119.906154,West,Pacific Northwest
+LOIL02349,US,IL,Decatur,41.282691,-88.962687,Central/Northeast,Missouri Valley
+LOWA02355,US,WA,Vancouver,47.628852,-120.25893,West,Oregon
+LOKS02356,US,KS,Shawnee,38.4506,-98.230185,Central/Northeast,Great Plains
+LOKS02357,US,KS,Lenexa,38.567678,-97.736911,Central/Northeast,Great Plains
+LOIL02358,US,IL,Aurora,41.097067,-89.253918,Central/Northeast,Missouri Valley
+LONY02359,US,NY,Syracuse,42.9128,-75.969602,Central/Northeast,New Jersey
+LONC02361,US,NC,High Point,35.441925,-78.799814,West,Western NC
+LONC02362,US,NC,Concord,35.688803,-78.932901,West,Western NC
+LONC02363,US,NC,Gastonia,35.424075,-79.146798,West,Western NC
+LOCA02367,US,CA,Oxnard,35.763525,-119.087061,West,Sacramento Valley
+LOIL02368,US,IL,Evanston,40.947904,-88.894506,Central/Northeast,Midwest Interior
+LOIL02369,US,IL,Schaumburg,41.094896,-89.257935,Central/Northeast,Kansas City
+LOIL02370,US,IL,Bolingbrook,40.937156,-89.190933,Central/Northeast,Kansas City
+LOIL02371,US,IL,Springfield,40.794088,-88.803619,Central/Northeast,Kansas City
+LOIL02372,US,IL,Rockford,40.725149,-89.04849,Central/Northeast,Kansas City
+LOIL02373,US,IL,Joliet,40.800922,-88.772402,Central/Northeast,Kansas City
+LOIL02374,US,IL,Naperville,41.034224,-89.161172,Central/Northeast,Kansas City
+LOIL02375,US,IL,Peoria,41.001456,-88.861108,Central/Northeast,Kansas City
+LOTN02386,US,TN,Clarksville,36.274871,-86.167732,West,Nashville Metro
+LOWA02387,US,WA,Bellevue,47.731709,-119.739418,West,Cascades
+LOWA02388,US,WA,Kennewick,47.749852,-119.918751,West,Cascades
+LOWA02389,US,WA,Renton,47.577892,-120.058074,West,Cascades
+LOWA02400,US,WA,Kirkland,47.651439,-119.981224,West,Oregon
+LOWA02403,US,WA,Bellevue,47.606463,-120.042925,West,Cascades
+LOIL02404,US,IL,Elgin,41.138898,-88.805317,Central/Northeast,Chicago Metro
+LOIL02405,US,IL,Waukegan,40.787862,-88.800242,Central/Northeast,Chicago Metro
+LONC02407,US,NC,Asheville,35.524178,-78.7932,West,Western NC
+LOVA02409,US,VA,Newport News,37.458781,-79.072576,South/Southeast,Virginia Coast
+LOVA02419,US,VA,Alexandria,37.749036,-79.149298,South/Southeast,Virginia Coast
+LOVA02422,US,VA,Hampton,37.706527,-79.009588,South/Southeast,Virginia Coast
+LOVA02423,US,VA,Roanoke,37.508457,-79.114919,South/Southeast,Virginia Coast
+LOLA02427,US,LA,Bossier City,30.543825,-91.604873,South/Southeast,Louisiana
+LOCA02428,US,CA,Pomona,35.723562,-119.136801,Central/Northeast,Sacramento Valley
+LONC02429,US,NC,Greenville,35.203827,-78.712987,West,Western NC
+LONC02430,US,NC,Charlotte,35.779448,-79.062907,West,Western NC
